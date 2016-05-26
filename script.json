@@ -1,11 +1,11 @@
 {
     "HELLO": "Hi there!\nI’m WillBot the personal Bot of Will, a creative recruiter from Surrey in the United Kingdom.\nDo you want to know more about bots like me or learn about Will? %[Learn about bots](postback:here_for_the_bot) %[Learn about Will](postback:learn_about_will) %[One random fact!](postback:random_fact)",
     "LEARN ABOUT WILL": "I can tell you lots of stuff about Will. Let me know what’s interesting to you? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)",
-    "CAREER": "Will has over 8 years of recruitment experience and is passionate about social media and online technology.\nThe first 2 years were spent in High Street Recruitment.",
+    "CAREER": "Will has over 8 years of recruitment experience and is passionate about social media and online technology.\nHe's officially a Certified Sourcing Ninja. Once a Ninja, always a Ninja!",
     "EDUCATION": "After getting the grades he needed, Will decided that he would study graphic design at college. Before that he travelled to Australia where he lived and worked in Sydney as a Junior Designer. %[Australia, Tell me more!](postback:Australia) %[Why graphic design?](postback:graphic_design)",
     "AUSTRALIA": "",
     "GRAPHIC DESIGN": "",
-    "INTERESTS": "",
+    "INTERESTS": "When Will's not working the day job he's researching the latest trends, tools, and innovations in social media and tech.\nHe also has his own recruitment blog called Uberfy.",
     "RANDOM FACT": "Will learnt to ski in Australia."
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
