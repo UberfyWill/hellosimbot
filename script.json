@@ -3,7 +3,7 @@
     "LEARN ABOUT WILL": "I can tell you lots of stuff about Will. Let me know what’s interesting to you? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)",
     "CAREER": "Will has over 8 years of recruitment experience and is passionate about social media and online technology.\nHe's a Certified Sourcing Ninja.\nWhat do you want to know more about? %[Recruitment experience](postback:recruitment_experience) %[Sourcing Ninja](postback:sourcing_ninja)",
     "RECRUITMENT EXPERIENCE": "",
-    "SOURCING NINJA": "Once a Ninja, always a Ninja\n![esther](https://github.com/UberfyWill/EstherBot/raw/master/img/Will_Sims_Black_Belt_Certificate.pdf)",
+    "SOURCING NINJA": "Once a Ninja, always a Ninja\n![will sims black belt certificate](https://github.com/UberfyWill/EstherBot/raw/master/img/Will_Sims_Black_Belt_Certificate.pdf)",
     "EDUCATION": "After getting the grades he needed, Will decided that he would study graphic design at college. Before that he travelled to Australia where he lived and worked in Sydney as a Junior Designer. %[Australia, Tell me more!](postback:Australia) %[Why graphic design?](postback:graphic_design)",
     "AUSTRALIA": "",
     "GRAPHIC DESIGN": "",
