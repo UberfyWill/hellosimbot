@@ -1,8 +1,7 @@
 {
     "HELLO": "Hi there!\nI’m WillBot the personal Bot of Will, a creative recruiter from Surrey in the United Kingdom.\nDo you want to know more about bots like me or learn about Will? %[Learn about bots](postback:here_for_the_bot) %[Learn about Will](postback:learn_about_will) %[One random fact!](postback:random_fact)",
     "LEARN ABOUT WILL": "I can tell you lots of stuff about Will. Let me know what’s interesting to you? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)",
-    "CAREER": "Will always had a strong internal drive to succeed and make his own way in the world.\nAt the age of 16 Will held down two jobs. By day he worked in retail selling shoes and by night, he cleaned dishes at his local Thai restraunt. %[Then what?](postback:then_what)",
-    "THEN WHAT": "",
+    "CAREER": "Will has over 8 years of recruitment experience and is passionate about social media and online technology.\nThe first 2 years were spent in High Street Recruitment.",
     "EDUCATION": "After getting the grades he needed, Will decided that he would study graphic design at college. Before that he travelled to Australia where he lived and worked in Sydney as a Junior Designer. %[Australia, Tell me more!](postback:Australia) %[Why graphic design?](postback:graphic_design)",
     "AUSTRALIA": "",
     "GRAPHIC DESIGN": "",
