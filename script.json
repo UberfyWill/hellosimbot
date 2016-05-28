@@ -13,7 +13,8 @@
     "INTERESTS": "When Will's not working the day job he's researching the latest trends, tools, and innovations in social media and tech.\nHe's taught himself how to build websites.\nHe started his own recruitment blog called Uberfy.\nTell me more about... %[Will's websites](postback:websites) %[Uberfy](postback:uberfy)",
     "WEBSITES": "",
     "UBERFY": "",
-    "RANDOM FACT": "Will learnt to ski in Australia.",
+    "RANDOM FACT": "Will learnt to ski in Australia. %[Give me another](postback:another_random_fact)",
+    "ANOTHER RANDOM FACT": "Will's creativity extends outside work. He's also a dab hand at interior design."
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
