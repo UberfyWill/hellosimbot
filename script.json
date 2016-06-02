@@ -7,7 +7,8 @@
     
     "CAREER": "Will has over 8 years recruitment experience and is passionate about social media and online technology.\nThe last 6 years have been spent working internal recruitment.\nHe's a Certified Sourcing Ninja.\nRecognised for his talent, Will has trained others in how to find Unicorns and Purple Squirrels.\nWhat do you want to know more about? %[More on experience](postback:more_on_experience) %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now)",
     "MORE ON EXPERIENCE": "For the first 2 years Will cut his teeth in High Street Recruitment. He then moved internally where he gained international experience.\nWill has worked on recruitment campaigns in many continents, Europe, Asia, Africa, North and South America and Australia.\nHis sourcing superpowers include, Facebook, Twitter, Linkedin, X-Ray search, Boolean Logic and visual searching (Google Images, Flickr, Instagram, Pinterest).\nHave you figured him out yet? %[Tell me more](postback:tell_me_more)",
-    "TELL ME MORE": "What would you like to learn about?\nI can tell you about what Will is up to right now or his experience in training other recruiters or even about becoming a Sourcing Ninja. %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now)",
+    "TELL ME MORE": "Well there's plenty more, what would you like to learn about?\nI can tell you about what Will is up to right now or his experience in training other recruiters or even about becoming a Sourcing Ninja. %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now) %[What else](postback:what_else)",
+    "WHAT ELSE": "What else would you like to know about? %[Education](postback:education) %[Interests](postback:interests)",
     "SOURCING NINJA": "Gaining his certificate as a Sourcing Ninja meant that Will became part of an elite group of online sourcers.\n![certificate](https://github.com/UberfyWill/EstherBot/raw/master/img/Certificate.jpg)\nOnce a Ninja, always a Ninja...",
     "TRAINING": "",
     "RIGHT NOW": "Right now Will's working with INC Research.\nBut he's always had the itch to build his own something. That something is me, WillBot.",
@@ -20,9 +21,10 @@
     "INTERESTS": "When Will's not working the day job he's researching the latest trends, tools, and innovations in social media and tech.\nCreativity has always come naturally to Will. He's taught himself how to build websites.\nHe started his own recruitment blog called Uberfy with over 6000 followers.\nTell me more about... %[Will's creativity](postback:creativity) %[Uberfy](postback:uberfy) %[Other interests](postback:other_interests)",
     "CREATIVITY": "",
     "UBERFY": "",
-    "OTHER INTERESTS": "40km in a day! A walk in the park for Will...\nEach year Will and his Farther challenge themselves in walking events around the UK. %[What else?](postback:what_else)",
+    "OTHER INTERESTS": "40km in a day! A walk in the park for Will...\nEach year Will and his Farther challenge themselves in walking events around the UK. %[What else?](postback:what_else_interests_will)",
     
-    "WHAT ELSE": "Will's a big football fan. He's a Liverpool supporter, part of the southern contigent.\nAt a young age Will was selected and played for Camberley Town, his local side.",
+    "WHAT ELSE INTERESTS WILL": "Will's a big football fan. He's a Liverpool supporter, part of the southern contigent.\nAt a young age Will was played for Camberley Town, his local side. He still plays today, he's just not as agile as he thinks he is.",
+    
     
     "RANDOM FACT 1": "Will is someone who likes travelling, but not too many people learnt to ski in Australia.\nWhat next? %[Give me another](postback:random_fact_2) %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will)",
     "RANDOM FACT 2": "Will's favourite quote is, Every day's a school day.\nWe can keep going with random facts about Will or... %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[Give me another](postback:random_fact_3)",
