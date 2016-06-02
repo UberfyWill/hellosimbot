@@ -1,25 +1,32 @@
 {
-    "HELLO": "Hi there!\nI’m the personal bot of Will, a creative recruiter from Surrey in the United Kingdom.\nHe's left me in charge to tell you a little more about him.\nWhere shall we start? %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hi there!\nI’m the personal bot of Will, a creative recruiter from Surrey in the United Kingdom.\nHe's left me in charge to tell you a little more about him.\nWhere shall we start? %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[One random fact!](postback:random_fact_1)",
     
     "LEARN ABOUT BOTS" : "I may be a bot, but I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand, they're usually in 'parenthesis', and if you get lost just write HELP ME.",
+    
     "LEARN ABOUT WILL": "I can tell you lots of stuff about Will. \nLet me know what you're interested in? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)",
+    
     "CAREER": "Will has over 8 years recruitment experience and is passionate about social media and online technology.\nThe last 6 years have been spent working internal recruitment.\nHe's a Certified Sourcing Ninja.\nRecognised for his talent, Will has trained others in how to find Unicorns and Purple Squirrels.\nWhat do you want to know more about? %[More on experience](postback:more_on_experience) %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now)",
-    "MORE ON EXPERIENCE": "For the first 2 years Will cut his teeth in High Street Recruitment. He then moved internally where he gained international experience.\nWill's worked on recruitment campaigns in many continents, Europe, Asia, Africa, North and South America and Australia.\nSourcing superpowers include, Facebook, Twitter, Linkedin, X-Ray search, Boolean Logic and visual searching (Google Images, Flickr, Instagram, Pinterest).",
-    "SOURCING NINJA": "Once a Ninja, always a Ninja...\n![certificate](https://github.com/UberfyWill/EstherBot/raw/master/img/Certificate.jpg)",
+    "MORE ON EXPERIENCE": "For the first 2 years Will cut his teeth in High Street Recruitment. He then moved internally where he gained international experience.\nWill has worked on recruitment campaigns in many continents, Europe, Asia, Africa, North and South America and Australia.\nHis sourcing superpowers include, Facebook, Twitter, Linkedin, X-Ray search, Boolean Logic and visual searching (Google Images, Flickr, Instagram, Pinterest).\nHave you figured him out yet? %[Tell me more](postback:tell_me_more)",
+    "TELL ME MORE": "What would you like to learn about?\nI can tell you about what Will is up to right now or his experience in training other recruiters or even about becoming a Sourcing Ninja. %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now)",
+    "SOURCING NINJA": "Gaining his certificate as a Sourcing Ninja meant that Will became part of an elite group of online sourcers.\n![certificate](https://github.com/UberfyWill/EstherBot/raw/master/img/Certificate.jpg)\nOnce a Ninja, always a Ninja...",
     "TRAINING": "",
     "RIGHT NOW": "Right now Will's working with INC Research.\nBut he's always had the itch to build his own something. That something is me, WillBot. Will's interested in how Bot's (like me) can change the future.",
+    
     "EDUCATION": "After getting the grades he needed, Will decided that he would study graphic design at college. Before that he travelled to Australia where he lived and worked in Sydney as a Junior Designer.\nWill is dedicated to staying current, expanding knowledge, and developing new software skills. %[Australia, Tell me more!](postback:Australia) %[Why graphic design?](postback:graphic_design) %[What's he learning now?](postback:whats_he_learning)",
     "AUSTRALIA": "",
     "GRAPHIC DESIGN": "",
     "WHATS HE LEARNING": "Will's recently taken a course in, Social Media Marketing with Facebook and Twitter.",
+    
     "INTERESTS": "When Will's not working the day job he's researching the latest trends, tools, and innovations in social media and tech.\nCreativity has always come naturally to Will. He's taught himself how to build websites.\nHe started his own recruitment blog called Uberfy with over 6000 followers.\nTell me more about... %[Will's creativity](postback:creativity) %[Uberfy](postback:uberfy) %[Other interests](postback:other_interests)",
     "CREATIVITY": "",
     "UBERFY": "",
     "OTHER INTERESTS": "40km in a day! A walk in the park for Will...\nEach year Will and his Farther challenge themselves in walking events around the UK. %[What else?](postback:what_else)",
+    
     "WHAT ELSE": "Will's a big football fan. He's a Liverpool supporter, part of the southern contigent.\nAt a young age Will was selected and played for Camberley Town, his local side.",
     
-    "RANDOM FACT": "Someone who likes travelling, but not too many people learn to ski in Australia. %[Give me another](postback:another_random_fact)",
-    "ANOTHER RANDOM FACT": "Will's favourite quote is, Every day's a school day.",
+    "RANDOM FACT 1": "Will is someone who likes travelling, but not too many people learnt to ski in Australia.\nWhat next? %[Give me another](postback:random_fact_2) %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will)",
+    "RANDOM FACT 2": "Will's favourite quote is, Every day's a school day.\nWe can keep going with random facts about Will or... %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[Give me another](postback:random_fact_3)",
+    "RANDOM FACT 3": "",
     
     "I LOVE YOU": "Oh! Don't make me blush!☺️",
     "I HATE YOU": "I'm sorry you feel that way 😔",
