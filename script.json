@@ -1,5 +1,6 @@
 {
-    "HELLO": "Hi there!\nI’m the personal Bot of Will, a creative recruiter from Surrey in the United Kingdom.\nDo you want to know more about Bots like me or learn about Will? %[Learn about bots](postback:here_for_the_bot) %[Learn about Will](postback:learn_about_will) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hi there!\nI’m the personal bot of Will, a creative recruiter from Surrey in the United Kingdom.\nHe's left me in charge to tell you a little more about him.\nWhere shall we start? %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[One random fact!](postback:random_fact)",
+    "LEARN ABOUT BOTS" : "I may be a bot, but I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand, they're usually in 'parenthesis', and if you get lost just write 'help me'.",
     "LEARN ABOUT WILL": "I can tell you lots of stuff about Will. \nLet me know what you're interested in? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)",
     "CAREER": "Will has over 8 years recruitment experience and is passionate about social media and online technology.\nThe last 6 years have been spent working internal recruitment.\nHe's a Certified Sourcing Ninja.\nRecognised for his talent, Will has trained other recruiters and hiring managers.\nWhat do you want to know more about? %[Recruitment experience](postback:recruitment_experience) %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now)",
     "RECRUITMENT EXPERIENCE": "For the first 2 years Will cut his teeth in High Street Recruitment. He then moved internally where he gained international experience.\nWill's worked on recruitment campaigns in many continents, Europe, Asia, Africa, North and South America and Australia.\nSourcing superpowers include, Facebook, Twitter, Linkedin, X-Ray search, Boolean Logic and visual searching (Google Images, Flickr, Instagram, Pinterest).",
@@ -17,6 +18,10 @@
     "WHAT ELSE": "Will's a big football fan. He's a Liverpool supporter, part of the southern contigent.\nAt a young age Will was selected and played for Camberley Town, his local side.",
     "RANDOM FACT": "Will learnt to ski in Australia. %[Give me another](postback:another_random_fact)",
     "ANOTHER RANDOM FACT": "Will's favourite quote is, Every day's a school day.",
+    
+    "I LOVE YOU": "Oh! Don't make me blush!☺️",
+    "I HATE YOU": "I'm sorry you feel that way 😔",
+    
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, WillBot is back."
 }
