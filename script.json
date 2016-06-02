@@ -10,12 +10,12 @@
     "TELL ME MORE": "What would you like to learn about?\nI can tell you about what Will is up to right now or his experience in training other recruiters or even about becoming a Sourcing Ninja. %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now)",
     "SOURCING NINJA": "Gaining his certificate as a Sourcing Ninja meant that Will became part of an elite group of online sourcers.\n![certificate](https://github.com/UberfyWill/EstherBot/raw/master/img/Certificate.jpg)\nOnce a Ninja, always a Ninja...",
     "TRAINING": "",
-    "RIGHT NOW": "Right now Will's working with INC Research.\nBut he's always had the itch to build his own something. That something is me, WillBot. Will's interested in how Bot's (like me) can change the future.",
+    "RIGHT NOW": "Right now Will's working with INC Research.\nBut he's always had the itch to build his own something. That something is me, WillBot.",
     
     "EDUCATION": "After getting the grades he needed, Will decided that he would study graphic design at college. Before that he travelled to Australia where he lived and worked in Sydney as a Junior Designer.\nWill is dedicated to staying current, expanding knowledge, and developing new software skills. %[Australia, Tell me more!](postback:Australia) %[Why graphic design?](postback:graphic_design) %[What's he learning now?](postback:whats_he_learning)",
     "AUSTRALIA": "",
     "GRAPHIC DESIGN": "",
-    "WHATS HE LEARNING": "Will's recently taken a course in, Social Media Marketing with Facebook and Twitter.",
+    "WHATS HE LEARNING": "Will's obsessed with learning. He's not your average recruiter. He built me, how many other recruiters do you know have their own bot.\nWill is learning about Social Media Marketing.\nHave you figured him out yet?",
     
     "INTERESTS": "When Will's not working the day job he's researching the latest trends, tools, and innovations in social media and tech.\nCreativity has always come naturally to Will. He's taught himself how to build websites.\nHe started his own recruitment blog called Uberfy with over 6000 followers.\nTell me more about... %[Will's creativity](postback:creativity) %[Uberfy](postback:uberfy) %[Other interests](postback:other_interests)",
     "CREATIVITY": "",
