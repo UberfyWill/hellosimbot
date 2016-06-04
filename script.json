@@ -1,11 +1,12 @@
 {
-    "HELLO": "Hi there!\nI’m the personal bot of Will, a creative recruiter from Surrey in the United Kingdom.\nHe's left me in charge to tell you a little more about him.\nWhere shall we start? %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[Random fact!](postback:random_fact_one)",
     
-    "LEARN ABOUT BOTS" : "I may be a bot, but I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand, they're usually in 'parenthesis', and if you get lost just write HELP ME.",
+    "HELLO": "Hi there!😄\nI’m the personal bot of Will, a creative recruiter from Surrey in the United Kingdom.\nHe's left me in charge.\nWith the right question, you might discover something that surprises you about Will. Where shall we start? %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[One random fact!](postback:random_fact_one)",
     
-    "LEARN ABOUT WILL": "I can tell you lots of stuff about Will. \nLet me know what you're interested in? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)",
+    "LEARN ABOUT BOTS" : "I may be a bot, but I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand, they're usually in 'parenthesis', and if you get lost just write 'help me'.",
     
-    "CAREER": "Will has over 8 years recruitment experience and is passionate about social media and online technology.\nThe last 6 years have been spent working internal recruitment.\nHe's a Certified Sourcing Ninja.\nRecognised for his talent, Will has trained others in how to find Unicorns and Purple Squirrels.\nWhat do you want to know more about? %[More on experience](postback:more_on_experience) %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now)",
+    "LEARN ABOUT WILL": "I can tell you lots of stuff about Will.\nWhat you're interested in? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)\nWhen you're ready you can always say 'connect' to talk with Will or if you get lost just write 'help me'.",
+    
+    "CAREER": "Will has over 8 years recruitment experience and is passionate about social media and online technology.\nThe last 6 years have been spent working internal recruitment.\nNot satisfied with traditional recruitment, He's now a 'Certified Sourcing Ninja'.\nRecognised for his talent, Will has trained others in how to find Unicorns and Purple Squirrels.\nWhat do you want to know more about? %[More on experience](postback:more_on_experience) %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now)",
     "MORE ON EXPERIENCE": "For the first 2 years Will cut his teeth in High Street Recruitment. He then moved internally where he gained international experience.\nWill has worked on recruitment campaigns in many continents, Europe, Asia, Africa, North and South America and Australia.\nHis sourcing superpowers include, Facebook, Twitter, Linkedin, X-Ray search, Boolean Logic and visual searching (Google Images, Flickr, Instagram, Pinterest).\nHave you figured him out yet? %[Tell me more](postback:tell_me_more)",
     "TELL ME MORE": "Well there's plenty more, what would you like to learn about?\nI can tell you about what Will is up to right now or his experience in training other recruiters or even about becoming a Sourcing Ninja. %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now) %[What else](postback:what_else)",
     "WHAT ELSE": "What else would you like to know about? %[Education](postback:education) %[Interests](postback:interests)",
@@ -22,19 +23,21 @@
     "CREATIVITY": "",
     "UBERFY": "",
     "OTHER INTERESTS": "40km in a day! A walk in the park for Will...\nEach year Will and his Farther challenge themselves in walking events around the UK. %[What else?](postback:what_else_interests_will)",
-    
     "WHAT ELSE INTERESTS WILL": "Will's a big football fan. He's a Liverpool supporter, part of the southern contigent.\nAt a young age Will was played for Camberley Town, his local side. He still plays today, he's just not as agile as he thinks he is.",
     
+    "ASK ME A QUESTION": "What's surprised you about Will so far?",
+    "NOT NOW": "Ok, I understand. Maybe another time. Where to next?",
+
+    "RANDOM FACT one": "Will is someone who likes travelling, but not too many people learnt to ski in Australia.\nWhat next? %[Give me another](postback:random_fact_2) %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will)",
+    "RANDOM FACT two": "Will's favourite quote is, Every day's a school day.\nWe can keep going with random facts about Will or... %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[Give me another](postback:random_fact_3)",
+    "RANDOM FACT three": "",
     
-    "RANDOM FACT ONE": "Will is someone who likes travelling, but not too many people learnt to ski in Australia.\nWhat next? %[Give me another](postback:random_fact_two) %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will)",
-    "RANDOM FACT TWO": "Will's favourite quote is, Every day's a school day.\nWe can keep going with random facts about Will or... %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[Give me another](postback:random_fact_three)",
-    "RANDOM FACT THREE": "",
+    "I LOVE YOU": "Oh! Don't make me blush!☺️",
+    "I HATE YOU": "I'm sorry you feel that way 😔",
     
-    "I LOVE YOU": "Oh! Don't make me blush!️",
-    "I HATE YOU": "I'm sorry you feel that way",
-    
-    "HELP ME" : "",
+    "HELP ME": "You can say 'connect' to talk to Will or...\n",
     
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, WillBot is back."
+    
 }
