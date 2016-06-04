@@ -4,12 +4,10 @@
     
     "LEARN ABOUT BOTS" : "I may be a bot, but I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand, they're usually in 'parenthesis', and if you get lost just write 'help me'.",
     
-    "LEARN ABOUT WILL": "I can tell you lots of stuff about Will.\nWhat you're interested in? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)\nWhen you're ready you can always say 'connect' to talk with Will or if you get lost just write 'help me'.",
+    "LEARN ABOUT WILL": "I can tell you lots of stuff about Will.\nWhat you're interested in? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)\nWhen you're ready you can always say 'connect' to talk with Will or if you get lost just write 'help me'. %[Connect with Will](postback:connect)",
     
-    "CAREER": "Will has over 8 years recruitment experience and is passionate about social media and online technology.\nThe last 6 years have been spent working internal recruitment.\nNot satisfied with traditional recruitment, He's now a 'Certified Sourcing Ninja'.\nRecognised for his talent, Will has trained others in how to find Unicorns and Purple Squirrels.\nWhat do you want to know more about? %[More on experience](postback:more_on_experience) %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now)",
-    "MORE ON EXPERIENCE": "For the first 2 years Will cut his teeth in High Street Recruitment. He then moved internally where he gained international experience.\nWill has worked on recruitment campaigns in many continents, Europe, Asia, Africa, North and South America and Australia.\nHis sourcing superpowers include, Facebook, Twitter, Linkedin, X-Ray search, Boolean Logic and visual searching (Google Images, Flickr, Instagram, Pinterest).\nHave you figured him out yet? %[Tell me more](postback:tell_me_more)",
-    "TELL ME MORE": "Well there's plenty more, what would you like to learn about?\nI can tell you about what Will is up to right now or his experience in training other recruiters or even about becoming a Sourcing Ninja. %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now) %[What else](postback:what_else)",
-    "WHAT ELSE": "What else would you like to know about? %[Education](postback:education) %[Interests](postback:interests)",
+    "CAREER": "Will has over 8 years recruitment experience and is passionate about social media and online technology.\nThe last 6 years have been spent working internal recruitment.\nNot satisfied with traditional recruitment, He's now a 'Certified Sourcing Ninja'.\nRecognised for his talent, Will has trained others in how to find Unicorns and Purple Squirrels.\nWhat do you want to know more about? %[Learn more](postback:learn_more) %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now)",
+    "LEARN MORE": "For the first 2 years Will cut his teeth in High Street Recruitment. He then moved internally where he gained international experience.\nWill has worked on recruitment campaigns in many continents, Europe, Asia, Africa, North and South America and Australia.\nHis sourcing superpowers include, Facebook, Twitter, Linkedin, X-Ray search, Boolean Logic and visual searching (Google Images, Flickr, Instagram, Pinterest).\nHave you figured him out yet? Remember, you can always say 'connect' to talk with Will. %[Connect with Will](postback:connect)\nIf you're not ready to 'connect' yet I can tell you more about Will. %[Education](postback:education) %[Interests](postback:interests)",
     "SOURCING NINJA": "Gaining his certificate as a Sourcing Ninja meant that Will became part of an elite group of online sourcers.\n![certificate](https://github.com/UberfyWill/EstherBot/raw/master/img/Certificate.jpg)\nOnce a Ninja, always a Ninja...",
     "TRAINING": "",
     "RIGHT NOW": "Right now Will's working with INC Research.\nBut he's always had the itch to build his own something. That something is me, WillBot.",
@@ -37,7 +35,7 @@
     
     "HELP ME": "You can say 'connect' to talk to Will or...\n",
     
-    "CONNECT ME": "",
+    "CONNECT": "Great! Will loves getting intros from WillBot. You can either tweet him or connect directly to chat. %[Tweet Will](postback:random_fact_3) %[Give me another](postback:random_fact_3) %[Learn More](postback:learn_more)",
     "DISCONNECT": "Roger that, WillBot is back."
     
 }
