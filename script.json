@@ -2,7 +2,7 @@
     
     "HELLO": "Hi there!😄\nI’m the personal bot of Will, a creative recruiter from Surrey in the United Kingdom.\nHe's left me in charge.\nWhere shall we start? %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[One random fact!](postback:random_fact_one)",
     
-    "LEARN ABOUT BOTS" : "☺\n",
+    "LEARN ABOUT BOTS" : "☺\nDon't forget to show the love and 'like' my page.😍",
     
     "LEARN ABOUT WILL": "I can tell you lots of stuff about Will.\nWhat are you interested in? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)\nWhen you're ready you can always say 'connect' to talk with Will or if you get lost just write 'help me'. %[Connect with Will](postback:connect)",
     
@@ -21,14 +21,14 @@
     "CREATIVITY": "",
     "UBERFY": "",
     "OTHER INTERESTS": "40km in a day! A walk in the park for Will...\nEach year Will and his Farther challenge themselves in walking events around the UK. %[What else?](postback:what_else_interests_will)",
-    "WHAT ELSE INTERESTS WILL": "Will's a big football fan. He's a Liverpool supporter, part of the southern contigent.\nAt a young age Will was played for Camberley Town, his local side. He still plays today, he's just not as agile as he thinks he is.",
+    "WHAT ELSE INTERESTS WILL": "He's a Liverpool supporter, part of the southern contigent.\nMusic - Will loves his music. Did I tell you will used to DJ? %[Yes!](postback:what_else_interests_will) %[No?](postback:random_fact_three)",
     
     "ASK ME A QUESTION": "What's surprised you about Will so far?",
     "NOT NOW": "Ok, I understand. Maybe another time. Where to next? %[Learn More](postback:learn_more)",
 
-    "RANDOM FACT one": "Will is someone who likes travelling, but not too many people learnt to ski in Australia.\nWhat next? %[Give me another](postback:random_fact_2) %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will)",
-    "RANDOM FACT two": "Will's favourite quote is, 'Every day's a school day.'\nWe can keep going with random facts about Will or... %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[Give me another](postback:random_fact_3)",
-    "RANDOM FACT three": "Will used to DJ. He's DJ'd in Windsor, Kingston-Upon-Thames, Reading and Camberley (his hometown whooop!).\nHe once came on after Brandon Block (a legendary Ibiza DJ).\n![brandon_block](https://github.com/UberfyWill/EstherBot/raw/master/img/brandon_block.jpg)\nHe grew up listening to this guy!",
+    "RANDOM FACT ONE": "Will is someone who likes travelling, but not too many people learnt to ski in Australia.\nWhat next? %[Give me another](postback:random_fact_2) %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will)",
+    "RANDOM FACT TWO": "Will's favourite quote is, 'Every day's a school day.'\nWe can keep going with random facts about Will or... %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[Give me another](postback:random_fact_3)",
+    "RANDOM FACT THREE": "A DJ... Whaaaaaat!?!\nWell he used to be.\nComing on after Brandon Block (a legendary Ibiza DJ) was a highlight.\n![brandon_block](https://github.com/UberfyWill/EstherBot/raw/master/img/brandon_block.jpg)\nThat's him!",
     
     "I LOVE YOU": "Oh! Don't make me blush!☺️",
     "I HATE YOU": "I'm sorry you feel that way 😔",
