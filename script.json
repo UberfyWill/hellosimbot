@@ -1,8 +1,8 @@
 {
     
-    "HELLO": "Hi there!😄\nI’m the personal bot of Will, a creative recruiter from Surrey in the United Kingdom.\nHe's left me in charge.\nWhere shall we start? %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[One random fact!](postback:random_fact_one)",
+    "HELLO": "Hi there!😄\nI’m the personal bot of Will, an unconventional and curious recruiter from Surrey in the United Kingdom.\nHe's left me in charge.\nWhere shall we start? %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[One random fact!](postback:random_fact_one)",
     
-    "LEARN ABOUT BOTS" : "☺\nDon't forget to show the love and 'like' my page.😍",
+    "LEARN ABOUT BOTS" : "LinkedIn profiles haven’t changed much in the last decade.\nI figured a bot could provide more context, and give a sense of your personality, showcase some of quirky interests, and discuss personal values.\nIf you want a bot like me just type 'connect' to start chatting with Will.\nDon't forget to show the love and 'like' my page before you go.😍",
     
     "LEARN ABOUT WILL": "I can tell you lots of stuff about Will.\nWhat are you interested in? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)\nWhen you're ready you can always say 'connect' to talk with Will or if you get lost just write 'help me'. %[Connect with Will](postback:connect)",
     
