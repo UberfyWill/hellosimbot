@@ -5,7 +5,7 @@
     
     "LEARN ABOUT WILL": "I can tell you lots of stuff about Will. What are you interested in? %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
     "CAREER": "I'm going to share with you how Will built a career in recruitment and became a modern recruiter.\nWhere do you want start? %[Before agency](postback:before_agency) %[Agency](postback:agency) %[In-house](postback:in_house)",
-    "BEFORE AGENCY": "Will once spent his summer holidays in Australia working as a Junior Designer at Marketing Agency.\nHe's worked in retail, banking and even as an Estate Agent! %[What did he learn?](postback:what_did_he_learn)",
+    "BEFORE AGENCY": "Will once spent his summer holidays in Australia working as a Junior Designer at Marketing Agency.\nHe's worked in retail, banking and even as an Estate Agent! %[What did he learn](postback:what_did_he_learn)",
     "WHAT DID HE LEARN": "Well, he learnt how to ski in Australia.\nHe developed a keen interest in design and marketing.\nHe's also developed key life skills in finance, moving house, and job hunting.",
     "AGENCY": "Will's career in recruitment began in agency.\nHere Will spent 2 years cutting his teeth, perfecting his matchmaking skills and trying to develop his sales approach. %[Matchmaking](postback:matchmaking) %[Sales](postback:sales)",
     "MATCHMAKING": "Naturally curious, Will began to develop skills in internet sourcing, Boolean techniques and headhunting online.\nHe would continue to develop these skills later in his career",
@@ -38,8 +38,8 @@
     "TACO BELL BOT": "Taco Bell recently released a bot that allows you to order and pay for tacos through an automated chat conversation.",
     "XAI BOT": "Other bots like X.ai can help schedule your meetings by simply adding the bot to your email thread.",
     "BUILD ME A BOT": "What are you looking for? %[Resume bot](postback:resume_bot) %[Other type of bot](postback:other_type_of_bot)",
-    "RESUME BOT": "Great! I'll ask Will to get in touch so the two of you can talk.\nIs that ok? %[Great!](postback:great) %[No thanks](postback:no_thanks)",
-    "OTHER TYPE OF BOT": "Ok, it's probably best you and Will talk about this.\nIs that ok? %[Great!](postback:great) %[No thanks](postback:no_thanks)",
+    "RESUME BOT": "Great! I'll ask Will to get in touch so the two of you can talk.\nIs that ok? %[Great](postback:great) %[No thanks](postback:no_thanks)",
+    "OTHER TYPE OF BOT": "Ok, it's probably best you and Will talk about this.\nIs that ok? %[Great](postback:great) %[No thanks](postback:no_thanks)",
     "GREAT": "Great! Will will be in touch very soon.",
     "NO THANKS": "That's ok, maybe next time.",
   
