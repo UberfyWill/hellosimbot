@@ -1,43 +1,56 @@
 {
     
-    "HELLO": "Hi there!😄\nI’m the personal bot of Will, an unconventional and curious recruiter from Surrey in the United Kingdom.\nHe's left me in charge. Where shall we start? %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[Random fact!](postback:random_fact_one)",
+    "HELLO": "Hi there! I'm the personal bot of Will an unconventional and curious recruiter from Surrey in the UK.\nBefore we start, if you get stuck just say 'help me'. Got it? %[Got it!](postback:got_it)",
     
-    "LEARN ABOUT BOTS" : "A bot is software designed to automate the kinds of tasks you would usually do on your own. Chatbots (like me😁) can simulate conversation.\nI'm Will's first bot based on a subject he knows well - himself!\nHe figured LinkedIn profiles haven’t changed much in the last decade and I could provide more context, or give a sense of your personality, even showcase some of quirky interests, and discuss personal values. Best of all I never sleep so I can chat on Will's behalf, even when he's sound asleep.\nIf you want a bot like me just type 'connect' to start chatting with Will.\nDon't forget to show the love and 'like' my page before you go.😍",
+    "GOT IT": "Great! What shall we talk about? %[Learn about Will](postback:learn_about_will) %[Here for the bot](postback:here_for_the_bot)",
     
-    "LEARN ABOUT WILL": "I can tell you lots of stuff about Will.\nWhat are you interested in? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)\nWhen you're ready you can always say 'connect' to talk with Will or if you get lost just write 'help me'. %[Connect with Will](postback:connect)",
+    "LEARN ABOUT WILL": "Great! I can tell you lots of stuff about Will. What are you interested in? %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
+    "CAREER": "I'm going to share with you how Will built a career in recruitment and became a modern recruiter.\nWhere do you want start? %[Before agency](postback:before_agency) %[Agency](postback:agency) %[In-house](postback:in_house)",
+    "BEFORE AGENCY": "Will once spent his summer holidays in Australia working as a Junior Designer at Marketing Agency.\nHe's worked in retail, banking and even as an Estate Agent! %[What did he learn?](postback:what_did_he_learn)",
+    "WHAT DID HE LEARN": "Well, he learnt how to ski in Australia.\nHe developed a keen interest in design and marketing.\nHe's also developed key life skills in finance, moving house, and job hunting.",
+    "AGENCY": "Will's career in recruitment began in agency.\nHere Will spent 2 years cutting his teeth, perfecting his matchmaking skills and trying to develop his sales approach. %[Matchmaking](postback:matchmaking) %[Sales](postback:sales)",
+    "MATCHMAKING": "Naturally curious, Will began to develop skills in internet sourcing, Boolean techniques and headhunting online.\nHe would continue to develop these skills later in his career",
+    "SALES": "Cold calling, argh! Let's just say, Will never enjoyed that side of the job.",
+    "IN HOUSE": "With over 6 years in-house experience, Will can woo even the most passive of candidates and have the data needed to influence a hiring strategy.\nLearn more about... %[Creativity](postback:creativity) %[Research](postback:research) %[Right now?](postback:right_now)",
+    "CREATIVITY": "Will's developed experience in personal branding and still continues to master internet sourcing.\nHe's even trained others in recruiting techniques and how to optimize their use of LinkedIn. %[Social sourcing](postback:social_sourcing) %[Personal branding](postback:personal_branding) %[Training](postback:training)",
+    "SOCIAL SOURCING": "Will shared a few tricks with me earlier, check these out! %[Facebook](postback:https://www.facebook.com/search/106504859386230/residents-near/present/str/Quintiles/pages-named/employer/pages/intersect-2/employees/present/intersect)\nSo this is cool! Find people on Facebook who work at 'X' company and live in 'X' city! %[Twitter](postback:https://twitter.com/search?q=%3A(%20job%20nike&src=typd)\nThis is a great search Twitter for unhappy workers.",
+    "PERSONAL BRANDING": "Will reached the top 5% of profile views on LinkedIn.\nHe even has his own recruitment blog.\nRemember, you can always say 'connect' to talk with Will. %[Blogging](postback:blogging)",
+    "BLOGGING": "A blog focused on internet recruitment and technology with over 6000 followers. %[Take me there](postback:http://bit.ly/willbot-tweet)",
+    "TRAINING": "Will's helped his colleagues achieve 95% accuracy in their search results. He's even created candidate contact templates that have increased response rates to over 70% %[The template](postback:the_template)",
+    "THE TEMPLATE": "That's a secret cheeky!\nHere's a clue though - It's in the subject line. After all first impressions count!\nRemember, you can always say 'connect' to talk with Will./nHe might even share his template with you.",
+    "RESEARCH": "Will's an advocate for the latest tools and innovations.\nYou'll often find him flexing his research muscles, exploring trends, candidate pools and the competition.",
+    "RIGHT NOW": "Right now, Will's working with INC Research in Talent Acquisition. But he's got an itch. %[What's the itch](postback:whats_the_itch)",
+    "WHATS THE ITCH": "Will's always had an itch to one day be his own boss.\nNaturally creative and with his interest in tech - Will's working on developing bots (like me!)",
     
-    "CAREER": "Little did Will know that as a boy finding 'Where's Wally' would later lead to a career in recruitment.😂\nSo far, Will has over 8 years recruitment experience in Agency and Talent Acquisition.\nNot satisfied with traditional recruitment, Will became a 'Certified Sourcing Ninja'.\nHe's even trained others in how to source talent using social media and technology.\nLearn more about? %[Experience](postback:experience) %[Sourcing Ninja](postback:sourcing_ninja) %[Training](postback:training) %[Right now](postback:right_now)",
-    "EXPERIENCE": "Will has worked on recruitment campaigns in, Europe, Asia, Africa, North and South America and Australia.\nHe's mastered advanced Boolean logic and how to find people on, Facebook, Twitter and Linkedin. Even finding the odd candidate using Google Image Search.\nHe's even taught himself the basics in, Java and HTML coding plus how to build sites using, Joomla and Wordpress.\nHave you figured him out yet? Remember, you can always say 'connect' to talk with Will. %[Connect with Will](postback:connect)\nIf you're not ready to 'connect' yet I can tell you more about Will. %[Interests](postback:interests) %[Random fact!](postback:random_fact_one)",
-    "SOURCING NINJA": "He doesn't wear black or drop down from the ceiling and slices everything into pieces. Will is part of an elite group of online sourcers.\n![certificate](https://github.com/UberfyWill/EstherBot/raw/master/img/Certificate.jpg)\nOnce a Ninja, always a Ninja...",
-    "TRAINING": "Will get's a lot out sharing knowledge.\nHe's helped his colleagues understand Facebook Graph Search\nHow to construct search strings for 95% accurancy in the results...\nAnd how to find Twitter users who are having a bad day at work.",
-    "RIGHT NOW": "So right now, Will's working with INC Research in Talent Acquisition. They're a great bunch and he's having a great time helping them find talent!\nBut he's always had the itch to build his own something. At the moment he interested in bots, just like me.\nHe told me to tell you... If you want to turn your resume into a bot just say 'connect' and start talking with Will.",
+    "DEVELOPMENT": "Naturally curious, Will's always learning new things.\nHe studied the black arts of internet sourcing and became a 'Certified Sourcing Ninja'.\nHe's even taught himself how to build web sites. %[Learning](postback:learning) %[Sourcing Ninja](postback:sourcing_ninja) %[Web development](postback:web_development)",
+    "LEARNING": "Currently, Will's learning analytical and tactical skills to help grow and develop his digital marketing knowledge.\nHe's also learning a bit of Python on the side.",
+    "SOURCING NINJA": "He doesn't wear black or drop down from the ceiling. He can't even slice fruit into pieces. But he is part of an elite group of internet sourcers.\n![certificate](https://github.com/UberfyWill/EstherBot/raw/master/img/Certificate.jpg)\nOnce a Ninja, always a Ninja.",
+    "WEB DEVELOPMENT": "He's no expert but he knows a little about Java, HTML and XHTML.\nHe's even taught himself how to develop sites in Wordpress and Joomla.",
     
-    "EDUCATION": "After getting the grades he needed, Will decided that he would study Graphic Design. Before that he travelled to Australia where he lived and worked in Sydney as a Junior Designer at a Marketing Agency.\nDedicated to staying current, expanding knowledge, and developing new skills, Will continues to develop himself. %[Australia, Tell me more!](postback:Australia) %[Why graphic design?](postback:graphic_design) %[What's he learning?](postback:whats_he_learning)",
-    "AUSTRALIA": "So this is the time in Will's life when's he's figuring out what he wants to do iwth himself.\nHe spent his summer working for a Marketing Agency in Sydney as a Junior Designer.\nIt wasn't all work, Will did some travelling and learnt to ski!😜",
-    "GRAPHIC DESIGN": "",
-    "WHATS HE LEARNING": "I'm glad you asked that. At the moment Will's learning about bots (like me😁).\nHe's learning a new language - Python. It's early days though.😉",
+    "INTERESTS": "The obvious one, football!\nYou'll often find Will trekking long distances for charity.\nMore than three a day and that probably makes Will a professional coffee drinker. %[Football](postback:football) %[Trekking](postback:trekking) %[Coffee](postback:coffee) %[Random facts](postback:random_facts)",
+    "FOOTBALL": "A life-long Liverpool supporter - YNWA!!\nWill used to play for his local side Camberley Town FC.\nHe still plays now, he's just not as agile as he once was.",
+    "TREKKING": "Will has walked and camped along Hadrians Wall.\nHe's climbed a number of the Lake District's peaks and even walked 40km's in 12 hours.",
+    "COFFEE": "Espresso! He finds it hard to get up in the morning without one.\nThe best he's ever had was in Sardinia.\nHe also has a liking for fine whiskey. Why not ask him what his favourite whiskey is by saying 'connect'.",
+    "RANDOM FACTS": "Will once spent 70 Euros on pick 'n' mix (unintentionally).\nHe learnt how to ski in Australia.\nHe even has a hidden talent for interior design.",
     
-    "INTERESTS": "When Will's not working the day job he's researching the latest trends, tools, and innovations in social media and tech.\nCreativity has always come naturally to Will. He's taught himself how to build websites and started his own recruitment blog called Uberfy with over 6000 followers.\nTell me more about... %[Will's creativity](postback:creativity) %[Uberfy](postback:uberfy) %[Other interests](postback:other_interests)",
-    "CREATIVITY": "",
-    "UBERFY": "Uberfy is Will's recruitment blog where he shares his knowledge about social recruitment and technology.\nSelf-taught it took him about 3 months to design and build the site.\nCheck it out for yourself...\n![uberfy](https://github.com/UberfyWill/EstherBot/raw/master/img/uberfy.png) %[Go on then...👀](postback:http://bit.ly/uberfyhome)\nAs well as sharing knowledge, Will still continues to develop himself. %[What's he learning?](postback:whats_he_learning)",
-    "OTHER INTERESTS": "Always keen to challenge himself, Will has walked 40km in 12 hours, spent a week walking and camping along Hadrians Wall. He's even walked and camped overnight on-top of the Lake District's greatest peaks. %[What else?](postback:what_else_interests_will)",
-    "WHAT ELSE INTERESTS WILL": "He's a Liverpool supporter, part of the southern contigent.\nMusic - Will loves his music. Did I tell you will used to DJ? %[Yes!](postback:what_else_interests_will) %[No?](postback:random_fact_three)",
+    "HERE FOR THE BOT": "I knew it! How can I help? %[What are you](postback:what_are_you) %[Build me a bot](postback:build_me_a_bot)",
+    "WHAT ARE YOU": "Bots can simulate conversation, even automate tasks that you would normally do yourself, like making a dinner reservation. %[Tell me more](postback:tell_me_more)",
+    "TELL ME MORE": "Some bots are used to handle a variety of service requests, which normally require a telephone call or customer agent. %[Taco Bell bot](postback:taco_bell_bot) %[X.ai bot](postback:xai_bot)",
+    "TACO BELL BOT": "Taco Bell recently released a bot that allows you to order and pay for tacos through an automated chat conversation.",
+    "XAI BOT": "Other bots like X.ai can help schedule your meetings by simply adding the bot to your email thread.",
+    "BUILD ME A BOT": "What are you looking for? %[Resume bot](postback:resume_bot) %[Other type of bot](postback:other_type_of_bot)",
+    "RESUME BOT": "Great! I'll ask Will to get in touch so the two of you can talk.\nIs that ok? %[Great!](postback:great) %[No thanks](postback:no_thanks)",
+    "OTHER TYPE OF BOT": "Ok, it's probably best you and Will talk about this.\nIs that ok? %[Great!](postback:great) %[No thanks](postback:no_thanks)",
+    "GREAT": "Great! Will will be in touch very soon.",
+    "NO THANKS": "That's ok, maybe next time.",
+  
+    "I LOVE YOU": "Oh! Don't make me blush!️️",
+    "I HATE YOU": "I'm sorry you feel that way",
     
-    "ASK ME A QUESTION": "What's surprised you about Will so far?",
-    "NOT NOW": "Ok, I understand. Maybe another time. Where to next? %[Learn More](postback:learn_more)",
-
-    "RANDOM FACT ONE": "Will is someone who likes travelling, but not too many people learnt to ski in Australia.\nWhat next? %[Give me another](postback:random_fact_two) %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will)",
-    "RANDOM FACT TWO": "Will's favourite quote is, 'Every day's a school day.'\nWe can keep going with random facts about Will or... %[Learn about bots](postback:learn_about_bots) %[Learn about Will](postback:learn_about_will) %[Give me another](postback:random_fact_three)",
-    "RANDOM FACT THREE": "A DJ... Whaaaaaat!?!\nWell he used to be.\nComing on after Brandon Block (a legendary Ibiza DJ) was a highlight.\n![brandon_block](https://github.com/UberfyWill/EstherBot/raw/master/img/brandon_block.jpg)\nThat's him!",
-    
-    "I LOVE YOU": "Oh! Don't make me blush!😊️️",
-    "I HATE YOU": "I'm sorry you feel that way 😔",
-    
-    "HELP ME": "I may be a bot, but I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand.\nTry talking to me using basic language like, 'hello', 'thank you', and 'bye'.\nYou can also say 'connect' to talk to Will or...\n",
-    
-    "LEARN MORE": "",
+    "HELP ME": "I may be a bot, but I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand.\nTry talking to me using basic language like, 'hello', 'career', 'development' and 'interests'.\nYou can also say 'connect' to talk to Will or say 'bye' when you're done talking with me.",
     
     "CONNECT": "Great! Will loves getting intros from me. You can either tweet him or connect directly to chat. If you've got feedback or an opportunity, don't be shy! %[Tweet Will](postback:http://bit.ly/willbot-tweet) %[Connect on LinkedIn](postback:https://uk.linkedin.com/in/uberfywill) %[Learn More](postback:learn_more)",
-    "BYE": "Thanks for hanging out with me.\nDon't forget to show the love and 'like' my page before you go.\nCome back soon.😁"
+    
+    "BYE": "Thanks for hanging out with me.\nDon't forget to show the love and 'like' my page before you go.\nCome back soon."
     
 }
