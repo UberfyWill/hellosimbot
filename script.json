@@ -1,6 +1,6 @@
 {
     
-    "HELLO": "Hi there! I'm the personal bot of Will an unconventional and curious recruiter from Surrey in the UK.\nBefore we get started, if you get stuck just say 'help me'.\nGot it? %[Got it](postback:got_it)",
+    "HELLO": "Hi there! I'm the personal bot of Will an unconventional and curious recruiter from Surrey in the UK.\nBefore we get started, if you get stuck just say 'help me'. Got it? %[Got it](postback:got_it)",
     "GOT IT": "Great! What shall we talk about then? %[Learn about Will](postback:learn_about_will) %[Here for the bot](postback:here_for_the_bot)",
     
     "LEARN ABOUT WILL": "Great! I can tell you lots of stuff about Will. What are you interested in? %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
