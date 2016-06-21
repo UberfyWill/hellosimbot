@@ -26,8 +26,9 @@
     "SOURCING NINJA": "He doesn't wear black or drop down from the ceiling. He can't even slice fruit into pieces. But he is part of an elite group of internet sourcers.\n![certificate](https://github.com/UberfyWill/EstherBot/raw/master/img/Certificate.jpg)\nOnce a Ninja, always a Ninja.",
     "WEB DEVELOPMENT": "He's no expert but he knows a little about Java, HTML and XHTML.\nHe's even taught himself how to develop sites in Wordpress and Joomla.",
     
-    "INTERESTS": "As you can probably tell he's pretty curious and unconventional chap. Right now, Will's into the messaging and bot space.\nIt's not all work though, over the years Will has developed a love for good coffee and specialist whiskey. He's life-long Liverpool supporter - YNWA!!! and enjoys a good trek for charity! %[What's he drinking](postback:whats_he_drinking) %[Tell me about trekking](postback:whats_he_drinking)",
+    "INTERESTS": "As you can probably tell he's pretty curious and unconventional chap. Right now, Will's into the messaging and bot space.\nIt's not all work though, over the years Will has developed a love for good coffee and specialist whiskey. He's life-long Liverpool supporter - YNWA!!! and enjoys a good trek for charity! %[What's he drinking](postback:whats_he_drinking) %[Side projects](postback:side_projects)",
     "WHATS HE DRINKING": "Yamazaki 12 Year Old Whisky\n![certificate](https://github.com/UberfyWill/EstherBot/raw/master/img/Certificate.jpg)\n%[Non, on to trekking](postback:trekking)",
+    "SIDE PROJECTS": "",
     "TREKKING": "Will has walked and camped along Hadrians Wall.\nHe's climbed a number of the Lake District's peaks and even walked 40km's in 12 hours.",
     "RANDOM FACTS": "Will once spent 70 Euros on pick 'n' mix (unintentionally).\nHe learnt how to ski in Australia.\nHe even has a hidden talent for interior design.",
     
