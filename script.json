@@ -2,7 +2,7 @@
     
     "HELLO": "Hi there! I'm the personal bot of Will a Talent Acquisition Specialist from Surrey in the UK.\nWhat are you interested in? %[Learn about Will](postback:learn_about_will) %[Here for the bot](postback:here_for_the_bot)",
     
-    "LEARN ABOUT WILL": "I can tell you all about Will and how he's racked up over 8 years agency and in-house recruitment experience, wooing even the most passive of candidates.\nThat he's a trained sourcing ninja and self taught digital marketer.\nEven his love for good coffee or how he learnt to ski in Australia!\nWhere shall we start? %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests) %[Early years](postback:early_years)",
+    "LEARN ABOUT WILL": "Let's do this! I can tell you all about Will and how he's racked up over 8 years agency and in-house recruitment experience, wooing even the most passive of candidates.\nThat he's a trained sourcing ninja and self taught digital marketer.\nEven his love for good coffee or how he learnt to ski in Australia!\nWhere shall we start? %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests) %[Early years](postback:early_years)",
     
     "CAREER": "The first 2 years were spent in agency at Spring Personnel where Will won 'Top Recruiter' for his region and survived the great recession of 2008.\nThe last 6 years he's spent in-house at companies like SGS and INC Research working on recruitment campaigns across all 6 continents.\nFor the past few years he's helped develop colleagues, training them in how to source talent using social media and online technology. He's also been involved in sourcing and selecting new recruitment software and the transition from old to new. %[Campaigns](postback:campaigns) %[Training](postback:training) %[Right now](postback:right_now?)",
     
@@ -32,14 +32,14 @@
     "TREKKING": "Will has walked and camped along Hadrians Wall.\nHe's climbed a number of the Lake District's peaks and even walked 40km's in 12 hours.",
     "RANDOM FACTS": "Will once spent 70 Euros on pick 'n' mix (unintentionally).\nHe learnt how to ski in Australia.\nHe even has a hidden talent for interior design.",
     
-    "HERE FOR THE BOT": "I knew it! How can I help? %[What are you](postback:what_are_you) %[Build me a bot](postback:build_me_a_bot)",
-    "WHAT ARE YOU": "Bots can simulate conversation, even automate tasks that you would normally do yourself, like making a dinner reservation. %[Tell me more](postback:tell_me_more)",
-    "TELL ME MORE": "Some bots are used to handle a variety of service requests, which normally require a telephone call or customer agent. %[Taco Bell bot](postback:taco_bell_bot) %[X.ai bot](postback:xai_bot)",
+    "HERE FOR THE BOT": "I knew it! How can I help? %[What are chatbots?](postback:what_are_chatbots?) %[Build me a bot](postback:build_me_a_bot)",
+    "WHAT ARE CHATBOTS?": "Bots can simulate conversation, even automate tasks that you would normally do yourself, like making a dinner reservation. %[Why chatbots?](postback:why_chatbots?)",
+    "WHY CHATBOTS?": "Great question! It’s because for the first time ever people are using messenger apps more than they are using social networks./nFor example, some bots are used to handle a variety of service requests, which normally require a telephone call or customer agent. %[Taco Bell bot](postback:taco_bell_bot) %[X.ai bot](postback:xai_bot)",
     "TACO BELL BOT": "Taco Bell recently released a bot that allows you to order and pay for tacos through an automated chat conversation.",
     "XAI BOT": "Other bots like X.ai can help schedule your meetings by simply adding the bot to your email thread.",
-    "BUILD ME A BOT": "What are you looking for? %[Resume bot](postback:resume_bot) %[Other type of bot](postback:other_type_of_bot)",
+    "BUILD ME A BOT": "Don’t want to build your own? No problem, Will can help!\nWhat are you looking for? %[Resume bot](postback:resume_bot) %[Other type of bot](postback:other_type_of_bot)",
     "RESUME BOT": "Great! I'll ask Will to get in touch so the two of you can talk.\nIs that ok? %[Great](postback:great) %[No thanks](postback:no_thanks)",
-    "OTHER TYPE OF BOT": "Ok, it's probably best you and Will talk about this.\nIs that ok? %[Great](postback:great) %[No thanks](postback:no_thanks)",
+    "OTHER TYPE OF BOT": "Ok, you'll need to figure out what problem you're going to solve with your bot. It's probably best you and Will talk about this between yourselves.\nIs that ok? %[Great](postback:great) %[No thanks](postback:no_thanks)",
     "GREAT": "Great! Will will be in touch very soon.",
     "NO THANKS": "That's ok, maybe next time.",
   
