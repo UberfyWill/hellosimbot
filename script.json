@@ -2,22 +2,29 @@
     
     "HELLO": "Hi there! I'm the personal bot of Will a Talent Acquisition Specialist from Surrey in the UK.\nWhat are you interested in? %[Learn about Will](postback:learn_about_will) %[Here for the bot](postback:here_for_the_bot)",
     
-    "LEARN ABOUT WILL": "Let's do this! I can tell you all about Will and how he's racked up over 8 years agency and in-house recruitment experience, wooing even the most passive of candidates.\nThat he's a trained sourcing ninja and self taught digital marketer.\nEven his love for good coffee or how he learnt to ski in Australia!\nWhere shall we start? %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests) %[Early years](postback:early_years)\nYou can always talk with the man himself at any time by saying 'connect'.",
+    "LEARN ABOUT WILL": "Let's do this! I can tell you all about Will and how he's racked up over 8 years agency and in-house recruitment experience, wooing even the most passive of candidates.\nThat he's a trained sourcing ninja and self taught digital marketer.\nEven his love for good coffee or how he learnt to ski in Australia!\nWhere shall we start? %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests) %[Early years](postback:early_years)\nRemember, if you'd rather talk Will himself just say 'connect'.",
     
-    "CAREER": "The first 2 years were spent in agency at Spring Personnel where Will won 'Top Recruiter' and survived the great recession of 2008.\nThe last 6 years he's spent in-house at companies like SGS and INC Research working on recruitment campaigns across all 6 continents.\nThrough trial and error (heavily weighted on errors!) he discovered a new way of sourcing candidates online, mostly in social networks, to source leads for his vacancies.\nSince then Will's developed an innate understanding of social media and technology.\nFor the past few years he's been involved in training colleagues in personal branding, attracting talent, and sourcing candidates across, LinkedIn, Twitter, Facebook, Google+... %[Campaigns](postback:campaigns) %[Training](postback:training) %[Right now](postback:right_now?)",
+    "CAREER": "The first 2 years were spent in agency at Spring Personnel where Will won 'Top Recruiter' and survived the great recession of 2008.\nThe last 6 years he's spent in-house at companies like SGS and INC Research working on recruitment campaigns across all 6 continents.\nThrough trial and error (heavily weighted on errors!) he discovered a new way of sourcing candidates online, mostly in social networks and using technology.\nFor the past few years he's been sharing this knowledge and training colleagues %[Social sourcing](postback:social_sourcing) %[Training](postback:training) %[Right now](postback:right_now?)",
     
-    "CAMPAIGNS": "Armed with his knowledge in social media and technology, Will has worked on recruitment campaigns across Europe, America, Afica, and Australia. Highlights, persuading people to go work in places like Nigeria and even war-torn Iraq.\nTake aways, Will has developed a great understanding for recruiting in different countries and an appreciation for their cultures, economies and laws.%[Now, on to social sourcing](postback:now_on_to_social_sourcing)\nBy the way you can always say 'more' to change what we're talking about.",
-    "NOW ON TO SOCIAL SOURCING": "",
-    "TRAINING": "What really excites Will is helping others develop.\nHe even has his own recruitment blog where he sahres knowledge on social sourcing and technology.
+     "SOCIAL SOURCING": "I'm glad you asked. This is part of what makes Will so unique compared to most.\nAlways curious, Will's ah ha momemnt came when he discovered a small internet sourcing community that had existed for years.\nWhilst his colleagues were caught-up in the recruitment rat race looking in the same places everyone elese was he began to develop skills in finding the coverted 'passive candidate'. This made him smile! %[Now, on to training](postback:training)",
+
+    "TRAINING": "He's helped his colleagues develop their personal brand, find ways of attracting talent in crowded spaces, and sourcing candidates across, LinkedIn, Twitter, Facebook, Google+...\nHe even started a recruitment blog where he shares tips, tricks, and views on social sourcing and technology. %[Blogging](postback:blogging) %[More on career](postback:campaigns)",
+    
+    "BLOGGING": "Will's an advocate for the latest tools and innovations.\nYou'll often find him flexing his research muscles, exploring internet recruitment and technology trends. He now has over 6000 followers. %[Take me there](http://bit.ly/willbot-tweet)\nBy the way you can always say 'more' to change what we're talking about.",
+    
+    "CAMPAIGNS": "Armed with his knowledge in social sourcing and technology, Will has worked on recruitment campaigns across Europe, America, Afica, and Australia. Highlights, successfully completing campaigns in places like Nigeria and even war-torn Iraq.\nTake aways, Will has developed a great understanding for recruiting in different countries, working with some great people and an appreciation for their cultures. %[Right now](postback:right_now?) %[Random fact](postback:random_fact)",
+    
+    "RIGHT NOW": "Right now, Will's working in Talent Acquisition with a great bunch of people at INC Research.\nWill is always open to new and exciting opportunities. %[The ideal job](postback:ideal_job)",
+    "IDEAL JOB": "What really excites Will is helping businesses be more creative with their recruitment through technology.\nSpecifically he's looking at Tech Talent roles because he excels at being the point-person and internal expert on internet sourcing and technology. %[Areas of interest](postback:areas_of_interest)",
+    "AREAS OF INTEREST": "As you can probably tell, right now he's into the messaging and chatbot space.\nWill has some great ideas on how bots could work with recruiters and candidates alike.\nIf you have something you want to share with Will or you just want to pick his brains about bots... %[Connect with Will](postback:connect)",
     
     "EARLY YEARS": "At school academics wasn't Will's strong point but he always had a strong internal drive. After finishing school, Will spent his summer living and working in Australia at a Marketing Agency as a Junior Designer.\nBefore recruitment he worked for Barclays as Personal Banker and even in Estate Agency (or if you're American, Real Estate). %[What did he learn](postback:what_did_he_learn)",
+    
     "WHAT DID HE LEARN": "Well, apart from learning how to ski in Australia of all places and deciding Estate Agency and Banking wasn't for him! He actually developed a keen interest in design and marketing, which still influences much of his work and interests today. %[Why recruitment](postback:why_recruitment)",
-    "WHY RECRUITMENT": "Will was looking for a way out of Estate Agency and the rest is history!"
    
-    "BLOGGING": "A blog focused on internet recruitment and technology with over 6000 followers. %[Take me there](postback:http://bit.ly/willbot-tweet)",
+
    
-    "RESEARCH": "Will's an advocate for the latest tools and innovations.\nYou'll often find him flexing his research muscles, exploring trends, candidate pools and the competition.",
-    "RIGHT NOW": "Right now, Will's working with INC Research in Talent Acquisition. But he's got an itch. %[What's the itch](postback:whats_the_itch)",
+  
     "WHATS THE ITCH": "Will's always had an itch to one day be his own boss.\nNaturally creative and with his interest in tech - Will's working on developing bots (like me!)",
     
     "DEVELOPMENT": "Naturally curious, Will's always learning new things.\nHe studied the black arts of internet sourcing and became a 'Certified Sourcing Ninja'.\nHe's even taught himself how to build web sites. %[Learning](postback:learning) %[Sourcing Ninja](postback:sourcing_ninja) %[Web development](postback:web_development)",
@@ -47,9 +54,9 @@
     
     "HELP ME": "I may be a bot, but I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand.\nTry talking to me using basic language like, 'hello', 'career', 'development' and 'interests'.\nYou can also say 'connect' to talk to Will or say 'bye' when you're done talking with me.",
     
-    "MORE": "Ok, here's other stuff you can check out.",
+    "MORE": "Ok, here's other stuff you can check out. %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests) %[Early years](postback:early_years)",
     
-    "CONNECT": "Great! Will loves getting intros from me. You can either tweet him or connect directly to chat. If you've got feedback or an opportunity, don't be shy! %[Tweet Will](postback:http://bit.ly/willbot-tweet) %[Connect on LinkedIn](postback:https://uk.linkedin.com/in/uberfywill) %[Learn More](postback:learn_more)",
+    "CONNECT": "Great! Will loves getting intros from me. You can either tweet him or connect directly to chat. If you've got feedback or an opportunity, don't be shy! %[Tweet Will](http://bit.ly/willbot-tweet) %[Connect on LinkedIn](https://uk.linkedin.com/in/uberfywill)",
     
     "BYE": "Thanks for hanging out with me.\nDon't forget to show the love and 'like' my page before you go.\nCome back soon."
     
