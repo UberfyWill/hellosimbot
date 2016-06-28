@@ -2,7 +2,7 @@
     
     "HELLO": "Hi there! I'm the personal bot of Will a Talent Acquisition Specialist from Surrey in the UK 😊\nWhat are you interested in? %[Learn about Will](postback:learn_about_will) %[Here for the bot](postback:here_for_the_bot)",
     
-    "LEARN ABOUT WILL": "Let's do this! 😁 I can tell you all about Will and how he challenges the status quo and he thinks differently.\n How he's racked up over 8 years agency and in-house recruitment experience, wooing even the most passive of candidates.\nThat he's a trained sourcing ninja and self taught digital marketer.\nEven his love for good coffee or how he learnt to ski in Australia!\nWhere shall we start? %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)\nRemember, if you'd rather talk Will himself just say 'connect'.",
+    "LEARN ABOUT WILL": "Let's do this! 😁 I can tell you all about Will and how he challenges the status quo and he thinks differently.\n How he's racked up over 8 years agency and in-house recruitment experience, wooing even the most passive of candidates.\nThat he's a trained sourcing ninja and self taught digital marketer.\nEven his love for good coffee or how he learnt to ski in Australia!\nWhere shall we start? %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)\nWhen you're ready you can always say 'connect' to talk to Will.",
     
     "CAREER": "The first 2 years were spent in agency at Spring Personnel where Will won 'Top Recruiter' and survived the great recession of 2008.\nThe last 6 years he's spent in-house at companies like SGS and INC Research working on recruitment campaigns across all 6 continents.\nThrough trial and error (heavily weighted on errors!) he discovered a new way of sourcing candidates online, mostly in social networks and using technology.\nFor the past few years he's been sharing this knowledge and training colleagues.\nI can tell you more about... %[Social sourcing](postback:social_sourcing) %[Training](postback:training) %[Right now](postback:right_now?)",
     
@@ -12,7 +12,9 @@
     
     "SHOW ME": "Ok here goes! Will shared a couple of cool searches with me on facebook and twitter... Don't mention it 😜 %[facebook](postback:facebook) %[twitter](postback:twitter)",
     "FACEBOOK": "So this is cool! Find people who work at a certain company and live in a particular city 👀 %[Show me](postback:https://www.facebook.com/search/106504859386230/residents-near/present/str/Quintiles/pages-named/employer/pages/intersect-2/employees/present/intersect) %[Now, show me twitter](postback:twitter)",
-    "TWITTER": "This is a great search for unhappy workers. Maybe you can use this to find unhappy peeps at your competitors 😉 %[Show me](https://twitter.com/search?q=%3A(%20job%20nike&src=typd)\nWant to know how Will did this? Remember, you can always say 'connect' to talk to Will. %[Connect with Will](postback:connect)\nOr, if your done finding unhappy people... %[A random fact](postback:random_fact)",
+    "TWITTER": "This is a great search for unhappy workers. Maybe you can use this to find unhappy peeps at your competitors 😉 %[Show me](https://twitter.com/search?q=%3A(%20job%20nike&src=typd) %[I want more](postback:i_want_more)\nOr, if your done finding unhappy people... %[A random fact](postback:random_fact)",
+    
+    "I WANT MORE": "Curious one you are! Remember, you can always say 'connect' to talk to Will and ask him for yourself or if you're too shy go check his blog out. It's all there 👀 %[The blog](postback:the_blog) %[Connect with Will](postback:connect)",
     
     "RANDOM FACT": "Back when he took a job in Estate Agency, Will was employed as their youngest ever employee at just 21. He went through 4 rigorous interviews to get that job! %[I want another](postback:another_random_fact)",
     
