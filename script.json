@@ -16,9 +16,11 @@
     
     "I WANT MORE": "Curious one you are! Remember, you can always say 'connect' to talk to Will and ask him for yourself or if you're too shy go check his blog out. It's all there 👀 %[The blog](postback:the_blog) %[Connect with Will](postback:connect)",
     
-    "RANDOM FACT": "Back when he took a job in Estate Agency, Will was employed as their youngest ever employee at just 21. He went through 4 rigorous interviews to get that job! %[I want another](postback:another_random_fact)",
+    "RANDOM FACT": "After he left school Will spent his summer working in Sydney, Australia at Design Agency as a Junior Designer.\nBut that's not all. Will actually learnt to ski in Australia. Not on a dry slope, a real-life ski resort called Thredbo in Australia. Yep random!\n![thredbo](https://github.com/UberfyWill/EstherBot/raw/master/img/thredbo.jpg) %[I want another](postback:procurement)",
     
-    "ANOTHER RANDOM FACT": "procurement of new software",
+    "PROCUREMENT": "Beep bop! Searching memory banks...\nFound one!\nWhilst at SGS, Will was chosen as part of a team to select  their new ATS software. His knowledge in technology and third-party extensions played a major part in the selection process. Later involved in testing and configuring the software. He ended up a superuser when it all when live. 😊 %[Cool! More factoids](postback:early_career) %[Nah](postback:nah)",
+    
+    "EARLY CAREER": "Ok, The early years of Will's career you could say were experimental.\nHe worked in Retail, Banking and Estate Agency.\nWhen Will started in Estate Agency, he was their youngest EVER employee at just 21."
     
     "THE BLOG": "Will's an advocate for the latest tools and innovations.\nYou'll often find him flexing his research muscles, exploring internet recruitment and technology trends.\nHe now has over 6000 followers. %[Take me there](http://bit.ly/willbot-tweet)\nBy the way you can always say 'more' to change what we're talking about.",
     
@@ -26,14 +28,11 @@
     
     "RIGHT NOW": "Right now, Will's working in Talent Acquisition with a great bunch of people at INC Research.\nWill is always open to new and exciting opportunities. %[The ideal job](postback:ideal_job)\nHave you figured him out yet? %[More about Will](postback:describe_will)",
     
-    "DESCRIBE WILL": "If I had to describe Will I would say that with everything he does, Will aims to challenge the status quo. He thinks differently. He just happens to have a unique knowledge combo of recruitment, social media and technology.\nI know what you're thinking... Why recruitment? %[Why recruitment](postback:why_recruitment) %[Nah, more factoids](postback:more)",
+    "DESCRIBE WILL": "If I had to describe Will I would say that with everything he does, Will aims to challenge the status quo. He thinks differently. He just happens to have a unique knowledge combo of recruitment, social media and technology.\nI know what you're thinking... %[Why recruitment](postback:why_recruitment) %[Nah, more factoids](postback:more)",
     "WHY RECRUITMENT": "Great question! Well, actually Will fell into recruitment. After deciding that banking and estate agency wasn't for him he went looking. This is when an old friend came across Will's CV online and called him up. They had a chat and caught-up. Then... Well the rest is history. Will's now racked up over 8 years in recruitment. Where to next? %[More about Will](postback:more) %[What next](postback:ideal_job)",
     
     "IDEAL JOB": "What really excites Will is helping businesses be more creative with their recruitment through technology.\nSpecifically he's looking at Tech Talent roles because he excels at being the point-person and internal expert on internet sourcing and technology. %[Areas of interest](postback:areas_of_interest)",
     "AREAS OF INTEREST": "As you can probably tell, right now he's into the messaging and chatbot space.\nWill has some great ideas on how bots could work with recruiters and candidates alike.\nIf you have something you want to share with Will or you just want to pick his brains about bots. %[Connect with Will](postback:connect) %[What are chatbots?](postback:what_are_chatbots?)",
-    
-    "EARLY YEARS": "At school academics wasn't Will's strong point but he always had a strong internal drive. After finishing school, Will spent his summer living and working in Australia at a Marketing Agency as a Junior Designer.\nBefore recruitment he worked for Barclays as Personal Banker and even in Estate Agency (or if you're American, Real Estate). %[What did he learn](postback:what_did_he_learn)",
-    "WHAT DID HE LEARN": "Well, apart from learning how to ski in Australia of all places and deciding Estate Agency and Banking wasn't for him! He actually developed a keen interest in design and marketing, which still influences much of his work and interests today. %[Why recruitment](postback:why_recruitment)",
    
     "DEVELOPMENT": "Naturally curious, Will's always learning new things.\nHe studied the black arts of internet sourcing and became a 'Certified Sourcing Ninja'.\nHe's even taught himself how to build web sites. %[Sourcing Ninja](postback:sourcing_ninja) %[What next](postback:what_next) %[Web development](postback:web_development)",
     "WHAT NEXT": "Currently, he's into bots and their possibilities. He's also taking online courses in digital marketing and Python. %[Now, onto web developing](postback:web_development)",
@@ -61,7 +60,8 @@
     
     "HELP ME": "I may be a bot, but I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand.\nTry talking to me using basic language like, 'hello', 'career', 'development' and 'interests'.\nYou can also say 'connect' to talk to Will or say 'bye' when you're done talking with me.",
     
-    "MORE": "Ok, here's other stuff you can check out. %[Early years](postback:early_years) %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
+    "MORE": "Ok, here's other stuff you can check out. %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
+    "NAH": "That's ok. I can tell you more about Will. What are you interested in?. %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
     
     "CONNECT": "Great! Will loves getting intros from me. You can either tweet him or connect directly to chat. If you've got feedback or an opportunity, don't be shy! %[Tweet Will](http://bit.ly/willbot-tweet) %[Connect on LinkedIn](https://uk.linkedin.com/in/uberfywill)",
     
