@@ -22,8 +22,6 @@
     
     "EARLY CAREER": "Ok, The early years of Will's career you could say were experimental.\nHe worked in Retail, Banking and Estate Agency.\nWhen Will started in Estate Agency, he was their youngest EVER employee at just 21.\nHave you figured him out yet? %[Tell me more](postback:describe_will)"
     
-    "BLOG": "Will's an advocate for the latest tools and innovations. You'll often find him flexing his research muscles, exploring internet recruitment and technology trends.\nHe now has over 6000 followers. %[Take me there](http://bit.ly/willbot-tweet)\nBy the way you can always say 'more' to change what we're talking about.",
-    
     "CAMPAIGNS": "Will has worked on recruitment campaigns across Europe, America, Afica, and Australia. Highlights, successfully completing campaigns in Nigeria and even war-torn Iraq. It's not easy to find and persuade people to go work and live in these places 😉\nTake aways, Will has developed a great understanding for recruiting in different countries, working with some great people and an appreciation for their cultures.\nWanna know what he's up to now or how he got into recruitment? %[What's he up to](postback:right_now) %[Before recruitment](postback:early_career) %[Nah, more factoids](postback:nah)",
     
     "RIGHT NOW": "Right now, Will's working with INC Research in Talent Acquisition with a great bunch of peeps.\nSo far he's been a hit working with their European and Amerian teams, sharing sourcing tips and technology. He's even developed super cool and engaging contact templates that have converted candidate response rates by over half.\nHe's always open to new and exciting opportunities. %[The ideal job](postback:ideal_job)",
