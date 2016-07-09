@@ -1,8 +1,8 @@
 {
     
-    "HELLO": "Hi there! I'm the personal bot of Will a Sourcing Ninja and digital native from Surrey in the UK 😊\nWhat are you interested in? %[Learn about Will](postback:learn_about_will) %[Here for the bot](postback:here_for_the_bot)",
+    "HELLO": "Hi there! 👋\nI'm Will's personal bot 👾\nWant to learn about Will or are you just here for the bot? %[Learn about Will](postback:learn_about_will) %[Here for the bot](postback:here_for_the_bot)",
     
-    "LEARN ABOUT WILL": "Ok cool! 😁 I can share ton of stuff about Will, including his career in recruitment, how he became a sourcing ninja, even what ☕️ he likes to drink.\nWhere shall we start? %[Career 💼](postback:career) %[Development 💡](postback:development) %[Interests 👀](postback:interests)\n![me](https://github.com/UberfyWill/EstherBot/raw/master/img/me.jpg)\nOr you can give me a 👍 and I’ll share his latest article about sourcing, tools or tech.",
+    "LEARN ABOUT WILL": "Ok cool! 😁 I can share ton of stuff about him, including his career in recruitment, how he became a sourcing ninja️, and even articles he's written 📝\nIt's also easy to connect with him directly. %[Connect 💬](postback:connect)\nWhere shall we start? %[Career 💼](postback:career) %[Development 💡](postback:development) %[Interests 👀](postback:interests)",
     
     "CAREER": "Known as an in-house expert for anything related to sourcing, tools or technology, Will has racked up over 8 years agency and in-house recruitment experience. %[Tell me more](postback:tell_me_more)",
     
