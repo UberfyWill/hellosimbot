@@ -1,18 +1,16 @@
 {
     
-    "HELLO": "Hi there! 👋\nI'm Will's personal bot 👾\nWant to learn about Will or are you just here for the bot? %[Learn about Will](postback:learn_about_will) %[Here for the bot](postback:here_for_the_bot)",
+    "HELLO": "Hi there! 👋\nI'm Will's personal bot 👾\nWant to learn about Will or are you just here for the bot? %[Learn about Will](postback:learn_about_will) %[Here for the bot](postback:here_for_the_bot)\nIt's also easy to change the subject at any time by saying 'change subject'. %[☝️ Change subject](postback:change_subject)",
     
-    "LEARN ABOUT WILL": "Ok cool! 😁 I can share ton of stuff about him, including his career in recruitment, how he became a sourcing ninja️, and even articles he's written 📝\nIt's also easy to connect with him directly. %[Connect 💬](postback:connect)\nWhere shall we start? %[Career 💼](postback:career) %[Development 💡](postback:development) %[Interests 👀](postback:interests)",
+    "LEARN ABOUT WILL": "Ok cool! 😁 I can share ton of stuff about him, where should we start? %[Biography](postback:biography) %[Articles](postback:articles)\nIt's also easy to 💬 with him directly at any time. %[💬 with Will](postback:connect)",
     
-    "CAREER": "Known as an in-house expert for anything related to sourcing, tools or technology, Will has racked up over 8 years agency and in-house recruitment experience. %[Tell me more](postback:tell_me_more)",
+    "BIOGRAPHY": "Great! 😊\nWhat are you interested in? %[Career 💼](postback:career) %[Development 💡](postback:development) %[Interests 👀](postback:interests)",
     
-    "TELL ME MORE": "Right now he's with INC Research in Talent Acquisition.\nBefore that he spent 5 years at a company called SGS creating processes, ideas and innovation to drive recruitment campaigns across Europe, America, Afica, and Australia. He was the brains 👓 behind the selection of their new recruitment software 💻\nBefore all that his career began in agency where he honed his matchmaking skills, learnt how to build pipelines, nurture leads and close deals 💰. %[Keep going...](postback:keep_going)",
+    "CAREER": "Known as an in-house expert for anything related to sourcing, tools or technology, he's spent nearly a decade working in the recruitment industry, developing expertise in sourcing, Boolean techniques and headhunting online.\nInteresting huh? %[Tell me more](postback:tell_me_more)",
     
-    "KEEP GOING": "It's still early days at but he's developed candidate outreach templates in email and LinkedIn, increasing response rates by over 65%.\nWanna know what he's up to right now or how he got into recruitment? %[Right now](postback:right_now) %[Before recruitment](postback:early_career) %[Nah, more factoids](postback:nah)",
+    "TELL ME MORE": "Right now he's with INC Research working in their European Talent Acquisition team.\nBefore that he spent 5 years at a company called SGS creating processes, ideas and innovation to drive recruitment campaigns across Europe, America, Afica, and Australia. He was the brains behind the selection of their new recruitment software.\nBefore all that his career began in agency where he honed his matchmaking skills, learnt how to build pipelines, nurture leads and close deals. %[Keep going...](postback:keep_going)",
     
-    \nHe even has his own blog where he shares insights and opinions into the world of social recruitment and technology.\nWhat are you interested in? %[Sourcing and technology](postback:internet_sourcing) %[The Blog](postback:blog) %[Right now](postback:right_now) Or if you're interested... %[Before recruitment](postback:early_career) When you're ready you can always say 'connect' to talk to Will. %[Connect with Will](postback:connect)",
-    
-    With his knowledge in technology and third-party extensions he was the brains behind the selection of their next recruitment software.
+    "KEEP GOING": "He's also been coaching recruiters in how to source candidates across, LinkedIn, Twitter, Facebook, Google+…\nIt's still early days at but he's developed candidate outreach templates in email and LinkedIn, increasing response rates by over 65%.\nWanna know what he's up to right now or how he got into recruitment? %[Now, onto development](postback:right_now)",
     
     "INTERNET SOURCING": "I'm glad you asked. This is what makes Will so unique compared to most.\nShortly after moving in-house and always curious, Will's 💡 moment came when he discovered a small internet sourcing community that had existed for years.\nSo, through trial and error (heavily weighted on errors!) he discovered a new way of sourcing candidates online, mostly in social networks and using technology.\nNow, you'll often find him flexing his research muscles, exploring the internet for the latest tools and innovations. %[Now, career highlights](postback:highlights)",
     
@@ -60,7 +58,7 @@
     
     "HELP ME": "I may be a bot, but I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand.\nTry talking to me using basic language like, 'hello', 'career', 'development' and 'interests'.\nYou can also say 'connect' to talk to Will or say 'bye' when you're done talking with me.",
     
-    "MORE": "Ok, here's other stuff you can check out. %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
+    "CHANGE SUBJECT": "Ok, here's other stuff you can check out. %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
     "NAH": "That's ok. I can tell you more about Will. What are you interested in?. %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
     
     "CONNECT": "Great! Will loves getting intros from me. You can either tweet him or connect directly to chat. If you've got feedback or an opportunity, don't be shy! %[Tweet Will](http://bit.ly/willbot-tweet) %[Connect on LinkedIn](https://uk.linkedin.com/in/uberfywill)",
