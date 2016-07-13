@@ -30,20 +30,20 @@
     
     "SIDE PROJECTS": "He's into the chatbot space. I'm his first bot and ongoing project - so watch this space 😉\nHis other ongoing project is the blog. He built and designed the site himself.\nCheck it out for yourself... %[The blog](postback:articles)",
     
-    "HERE FOR THE BOT": "I knew it! How can I help? %[What are chatbots?](postback:what_are_chatbots?) %[I want a bot](postback:i_want_a_bot)",
+    "HERE FOR THE BOT": "I knew it! 😍\nHow can I help? %[What are chatbots?](postback:what_are_chatbots?) %[I want a bot](postback:i_want_a_bot)",
     "WHAT ARE CHATBOTS?": "Bots can simulate conversation, even automate tasks that you would normally do yourself. %[Tell me more](postback:why_chatbots)",
-    "WHY CHATBOTS": "Great question! It’s because for the first time ever people are using messenger apps more than they are using social networks.\nFor example, some bots are used to handle a variety of service requests, which normally require a telephone call or customer agent.\nHere's some examples... %[TacoBot](https://www.tacobell.com/feed/tacobot) %[X.ai bot](https://x.ai/)",
-    "I WANT A BOT": "Great! The best way for this to work is if I introduce you to the man himself. %[Connect with Will](postback:connect)",
+    "WHY CHATBOTS": "Great question! 👍 It’s because for the first time ever people are using messenger apps more than they are using social networks.\nFor example, some bots are used to handle a variety of service requests, which normally require a telephone call or customer agent.\nHere's some examples... %[TacoBot](https://www.tacobell.com/feed/tacobot) %[X.ai bot](https://x.ai/)",
+    "I WANT A BOT": "The best way for this to work is if I introduce you to the man himself 👇 %[Connect with Will](postback:connect)",
   
     "I LOVE YOU": "Oh! Don't make me blush!️️",
     "I HATE YOU": "I'm sorry you feel that way",
     
     "HELP ME": "I may be a bot, but I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand.\nTry talking to me using basic language like, 'hello', 'career', 'development' and 'interests'.\nYou can also say 'connect' to talk to Will or say 'bye' when you're done talking with me.",
     
-    "CHANGE THE SUBJECT": "Ok, here's other stuff you can check out. %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
+    "CHANGE THE SUBJECT": "Ok, here's other stuff you can check out 👇 %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
     
-    "CONNECT": "Great! Will loves getting intros from me. You can either tweet him or connect directly to chat.\nIf you've got feedback or an opportunity, don't be shy! %[Tweet Will](http://bit.ly/willbot-tweet) %[Connect on LinkedIn](https://uk.linkedin.com/in/uberfywill) %[Facebook message](https://www.messenger.com/t/uberfywill)",
+    "CONNECT": "Great! Will loves getting intros from me. You can either tweet him or connect directly to 💬\nIf you've got feedback or an opportunity, don't be shy! %[Tweet Will](http://bit.ly/willbot-tweet) %[Connect on LinkedIn](https://uk.linkedin.com/in/uberfywill) %[Facebook message](https://www.messenger.com/t/uberfywill)",
     
-    "BYE": "Thanks for hanging out with me.\nDon't forget to show the love and 'like' my page before you go.\nCome back soon."
+    "BYE": "Thanks for hanging out with me 😊\nDon't forget to show the love and 'like' my page before you go.\nCome back soon 👋"
     
 }
