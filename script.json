@@ -6,13 +6,13 @@
     
     "BIOGRAPHY": "Great! 😊\nWhat are you interested in? %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
     
-    "CAREER": "Known as an in-house expert for anything related to sourcing, tools or technology, he's spent nearly a decade working in the recruitment industry, developing expertise in sourcing, Boolean techniques and headhunting online.\nInteresting huh? %[Tell me more](postback:recruitment)",
+    "CAREER": "Known as an in-house expert for anything related to sourcing, tools or technology, he's spent nearly a decade working in the recruitment industry, developing expertise in sourcing, Boolean techniques and headhunting online.\nInteresting huh? %[I'm interested](postback:recruitment)",
     
-    "RECRUITMENT": "Right now he's with INC Research working in their European Talent Acquisition team.\nBefore that he spent 5 years at a company called SGS creating processes, ideas and innovation to drive recruitment campaigns across Europe, America, Afica, and Australia. He was the brains behind the selection of their new recruitment software, later involved in developing and road-testing it.\nBefore all that his career began in agency where he honed his matchmaking skills, learnt how to build pipelines, nurture leads and close deals. %[Tell me more](postback:keep_going)",
+    "RECRUITMENT": "Right now he's with INC Research working in their European Talent Acquisition team.\nBefore that he spent 5 years at a company called SGS creating processes, ideas and innovation to drive recruitment campaigns across Europe, America, Afica, and Australia. He was the brains behind the selection of their new recruitment software, later involved in developing and road-testing it.\nBefore all that his career began in agency where he honed his matchmaking skills, learnt how to build pipelines, nurture leads and close deals. %[Tell me more](postback:trial_error)",
     
-    "KEEP GOING": "Through trial and error (heavily weighted on errors 😁) he discovered a new way of sourcing candidates online, mostly in social networks and using online technology.\nHe led the in-house development of recruiters at SGS sharing his knowledge in, tools and sourcing techniques, training them in how to find, attract and engage with talent online. %[Tell me more](postback:riverting)",
+    "TRIAL ERROR": "Through trial and error (heavily weighted on errors 😁) he discovered a new way of sourcing candidates online, mostly in social networks and using online technology.\nHe led the in-house development of recruiters at SGS sharing his knowledge in, tools and sourcing techniques, training them in how to find, attract and engage with talent online. %[Keep going](postback:creative)",
     
-    "RIVERTING": "At the moment he's at INC helping them attract talent into the business in creative ways. He's been helping them develop expertise in social sourcing and talent engagement. So far he's developed candidate outreach templates for email and LinkedIn campaigns, increasing response rates by over 60% 🙌\nSo, now you know. But he's always open to new and exciting opportunities 😁 %[The ideal job](postback:ideal_job)",
+    "CREATIVE": "At the moment he's at INC helping them attract talent into the business in creative ways. He's been helping them develop expertise in social sourcing and talent engagement. So far he's developed candidate outreach templates for email and LinkedIn campaigns, increasing response rates by over 60% 🙌\nSo, now you know. But he's always open to new and exciting opportunities 😁 %[The ideal job](postback:ideal_job)",
     
     "IDEAL JOB": "What really excites Will is helping businesses be more creative with their recruitment through technology.\nSpecifically he's interested in Tech Talent roles because he excels at being the point-person and internal expert on internet sourcing and technology. %[Areas of interest](postback:areas_of_interest)",
     
@@ -22,9 +22,9 @@
    
     "DEVELOPMENT": "He's studied the black arts of internet sourcing and became a 'Certified Sourcing Ninja'.\n![certificate](https://github.com/UberfyWill/EstherBot/raw/master/img/Certificate.jpg)\nNaturally curious, you'll often find him flexing his research muscles. He's also developed skills and knowledge in digital marketing, Java, HTML, Joomla and WordPress.\nHe's also a dab hand in using adobe photoshop and illustrator. %[Cool](postback:change_subject)",
     
-    "INTERESTS": "Where to start! 😁\nWell, he enjoys the finer things in life like good coffee and specialist whisky.\n![whisky](https://github.com/UberfyWill/EstherBot/raw/master/img/whisky.gif)\n %[What else](postback:liverpool)",
+    "INTERESTS": "Where to start! 😁\nWell, he enjoys the finer things in life like good coffee and specialist whisky.\n![whisky](https://github.com/UberfyWill/EstherBot/raw/master/img/whisky.gif)\n %[More interests](postback:liverpool)",
     
-    "LIVERPOOL": "One of his biggest passions is ⚽️\nHe played for his county under 17's side, Camberley Town.\nHe's also an avid Liverpool supporter - YNWA!!! 🙌 %[What else](postback:trekking)",
+    "LIVERPOOL": "One of his biggest passions is ⚽️\nHe played for his county under 17's side, Camberley Town.\nHe's also an avid Liverpool supporter - YNWA!!! 🙌 %[Give me another](postback:trekking)",
     
     "TREKKING": "His adventures have taken him across Hadrians Wall, to a number of the Lake District's highest 🗻 and even completing 40km's in 12 hours.\n![trekking](https://github.com/UberfyWill/EstherBot/raw/master/img/trekking_me.jpg)\n",
     
