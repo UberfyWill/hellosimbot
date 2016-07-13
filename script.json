@@ -15,9 +15,9 @@
     "MORE INTERESTS": "One of his biggest passions is ⚽️\nHe played for his county under 17's side, Camberley Town.\nHe's also an avid Liverpool supporter - YNWA!!! 🙌 %[Give me another](postback:give_me_another)",
     "GIVE ME ANOTHER": "His adventures have taken him across Hadrians Wall, to a number of the Lake District's highest 🗻 and even completing 40km's in 12 hours.\n![trekking](https://github.com/UberfyWill/EstherBot/raw/master/img/trekking_me.jpg)\n %[Cool](postback:cool)",
     "SIDE PROJECTS": "He's into the chatbot space. I'm his first bot and ongoing project - so watch this space 😉 %[What are chatbots?](postback:what_are_chatbots?)\nWill's other project is his blog. He built and designed the site himself. Check it out for yourself... %[The blog](http://bit.ly/hellodiginative)",
-    "HERE FOR THE BOT": "I knew it! 😍\nHow can I help? %[What are chatbots?](postback:what_are_chatbots?) %[I want a bot](postback:i_want_a_bot)",
-    "WHAT ARE CHATBOTS?": "Bots can simulate conversation, even automate tasks that you would normally do yourself.\nFor the first time ever people are using messenger apps more than they are using social networks.\nFor example, some bots are used to handle a variety of service requests, which normally require a telephone call or customer agent.\nHere's some examples... %[TacoBot](https://www.tacobell.com/feed/tacobot) %[X.ai bot](https://x.ai/)",
-    "I WANT A BOT": "The best way for this to work is if I introduce you to the man himself 👇 %[Connect with Will](postback:connect)",
+    "HERE FOR THE BOT": "I knew it! 😍\nHow can I help? %[What are chatbots?](postback:what_are_chatbots?) %[Build me a bot](postback:build_me_a_bot)",
+    "WHAT ARE CHATBOTS?": "Bots can simulate conversation, even automate tasks that you would normally do yourself.\nFor the first time ever people are using messenger apps more than they are using social networks.\nFor example, some bots are used to handle a variety of service requests, which normally require a telephone call or customer agent.\nHere's some examples... %[TacoBot](https://www.tacobell.com/feed/tacobot) %[X.ai bot](https://x.ai/) %[Build me a bot](postback:build_me_a_bot)",
+    "BUILD ME A BOT": "The best way for this to work is if I introduce you to the man himself 👇 %[Connect with Will](postback:connect)",
   
     "I LOVE YOU": "Oh! Don't make me blush!️️",
     "I HATE YOU": "I'm sorry you feel that way",
