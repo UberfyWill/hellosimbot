@@ -2,9 +2,9 @@
     
     "HELLO": "Hi there! 👋\nI'm Will's personal bot 👾\nWant to learn about Will or are you just here for the bot? %[Learn about Will](postback:learn_about_will) %[Here for the bot](postback:here_for_the_bot)\nIt's also easy to change the subject at any time by saying 'change the subject'.",
     
-    "LEARN ABOUT WILL": "Ok cool! 😁 I can share ton of stuff about him, where should we start? %[Biography](postback:biography) %[Latest articles](postback:articles)\nIt's also easy to 💬 with him directly at any time, just say 'connect'. %[Connect with Will](postback:connect)",
+    "LEARN ABOUT WILL": "Ok cool! 😁 I can share ton of stuff about him, where should we start? %[Biography](postback:biography) %[Latest articles](postback:articles) %[Side projects](postback:side_projects)\nIt's also easy to 💬 with him directly at any time, just say 'connect'. %[Connect with Will](postback:connect)",
     
-    "BIOGRAPHY": "Great! 😊\nWhat are you interested in? %[Career](postback:career) %[Development](postback:development) %[Life](postback:life) %[Interests](postback:interests)",
+    "BIOGRAPHY": "Great! 😊\nWhat are you interested in? %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
     
     "CAREER": "Known as an in-house expert for anything related to sourcing, tools or technology, he's spent nearly a decade working in the recruitment industry, developing expertise in sourcing, Boolean techniques and headhunting online.\nInteresting huh? %[Tell me more](postback:tell_me_more)",
     
@@ -20,28 +20,20 @@
     
     "ARTICLES": "Go take a look at his informative, smart, yet addictively clickable articles about social sourcing and technology. %[The blog](http://bit.ly/hellodiginative)\nRemember, At any time just type 'change the subject' to change the subject. %[Change the subject](postback:change_the_subject)",
    
-    "DEVELOPMENT": "He's studied the black arts of internet sourcing and became a 'Certified Sourcing Ninja'.\n![certificate](https://github.com/UberfyWill/EstherBot/raw/master/img/Certificate.jpg)\nNaturally curious, you'll often find him flexing his research muscles. He's also developed skills and knowledge in digital marketing, Java, HTML, Joomla and WordPress. He's also a dab hand in using adobe photoshop and illustrator. %[Cool](postback:change_subject)",
+    "DEVELOPMENT": "He's studied the black arts of internet sourcing and became a 'Certified Sourcing Ninja'.\n![certificate](https://github.com/UberfyWill/EstherBot/raw/master/img/Certificate.jpg)\nNaturally curious, you'll often find him flexing his research muscles. He's also developed skills and knowledge in digital marketing, Java, HTML, Joomla and WordPress.\nHe's also a dab hand in using adobe photoshop and illustrator. %[Cool](postback:change_subject)",
     
-    "LIFE": "So, Will grew up in Surrey, UK and still lives there today.\n![guildford](https://github.com/UberfyWill/EstherBot/raw/master/img/guildford.jpg)\nWant to know more? %[Yep](postback:change_subject) %[Nope](postback:change_the_subject)",
+    "INTERESTS": "Where to start! 😁\nWell, he enjoys the finer things in life like good coffee and specialist whisky.\n![whisky](https://github.com/UberfyWill/EstherBot/raw/master/img/whisky.gif)\n %[What else](postback:liverpool)",
     
-    "YEP": "After leaving school he spent his summer in Sydney 🇦🇺 working for a Design Agency as a Junior Designer.",
+    "LIVERPOOL": "One of his biggest passions is ⚽️\nHe played for his county under 17's side, Camberley Town.\nHe's also an avid Liverpool supporter - YNWA!!! 🙌 %[What else](postback:trekking)",
     
-    "INTERESTS": "As you can probably tell he's pretty curious and unconventional chap. But, it's not all work! Over the years Will has developed a love for good coffee and whiskey. He's a life-long Liverpool supporter - YNWA!!! and enjoys a good trek for charity! %[What's he drinking](postback:whats_he_drinking) %[Trekking](postback:trekking)",
-    "WHATS HE DRINKING": "Right now, Yamazaki 12 Year Old Whisky.\n![whiskey](https://github.com/UberfyWill/EstherBot/raw/master/img/yamazaki.jpg)\n%[Now, on to trekking](postback:trekking)",
-    "TREKKING": "Will has walked and camped along Hadrians Wall.\nHe's climbed a number of the Lake District's peaks and even walked 40km's in 12 hours.\n![trekking](https://github.com/UberfyWill/EstherBot/raw/master/img/trekking_me.jpg)\n",
+    "TREKKING": "His adventures have taken him across Hadrians Wall, to a number of the Lake District's highest 🗻 and even completing 40km's in 12 hours.\n![trekking](https://github.com/UberfyWill/EstherBot/raw/master/img/trekking_me.jpg)\n",
     
-    "SIDE PROJECTS": "",
+    "SIDE PROJECTS": "He's into the chatbot space. I'm his first bot and ongoing project - so watch this space 😉\nHis other ongoing project is the blog. He built and designed the site himself.\nCheck it out for yourself... %[The blog](postback:articles)",
     
-    "HERE FOR THE BOT": "I knew it! How can I help? %[What are chatbots?](postback:what_are_chatbots?) %[Build me a bot](postback:build_me_a_bot)",
-    "WHAT ARE CHATBOTS?": "Bots can simulate conversation, even automate tasks that you would normally do yourself, like making a dinner reservation. %[Why chatbots?](postback:why_chatbots?)",
-    "WHY CHATBOTS?": "Great question! It’s because for the first time ever people are using messenger apps more than they are using social networks./nFor example, some bots are used to handle a variety of service requests, which normally require a telephone call or customer agent. %[Taco Bell bot](postback:taco_bell_bot) %[X.ai bot](postback:xai_bot)",
-    "TACO BELL BOT": "Taco Bell recently released a bot that allows you to order and pay for tacos through an automated chat conversation.",
-    "XAI BOT": "Other bots like X.ai can help schedule your meetings by simply adding the bot to your email thread.",
-    "BUILD ME A BOT": "Don’t want to build your own? No problem, Will can help!\nWhat are you looking for? %[Resume bot](postback:resume_bot) %[Other type of bot](postback:other_type_of_bot)",
-    "RESUME BOT": "Great! I'll ask Will to get in touch so the two of you can talk.\nIs that ok? %[Great](postback:great) %[No thanks](postback:no_thanks)",
-    "OTHER TYPE OF BOT": "Ok, you'll need to figure out what problem you're going to solve with your bot. It's probably best you and Will talk about this between yourselves.\nIs that ok? %[Great](postback:great) %[No thanks](postback:no_thanks)",
-    "GREAT": "Great! Will will be in touch very soon.",
-    "NO THANKS": "That's ok, maybe next time.",
+    "HERE FOR THE BOT": "I knew it! How can I help? %[What are chatbots?](postback:what_are_chatbots?) %[I want a bot](postback:i_want_a_bot)",
+    "WHAT ARE CHATBOTS?": "Bots can simulate conversation, even automate tasks that you would normally do yourself. %[Tell me more](postback:why_chatbots)",
+    "WHY CHATBOTS": "Great question! It’s because for the first time ever people are using messenger apps more than they are using social networks.\nFor example, some bots are used to handle a variety of service requests, which normally require a telephone call or customer agent.\nHere's some examples... %[TacoBot](https://www.tacobell.com/feed/tacobot) %[X.ai bot](https://x.ai/)",
+    "I WANT A BOT": "Great! The best way for this to work is if I introduce you to the man himself. %[Connect with Will](postback:connect)",
   
     "I LOVE YOU": "Oh! Don't make me blush!️️",
     "I HATE YOU": "I'm sorry you feel that way",
@@ -49,9 +41,8 @@
     "HELP ME": "I may be a bot, but I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand.\nTry talking to me using basic language like, 'hello', 'career', 'development' and 'interests'.\nYou can also say 'connect' to talk to Will or say 'bye' when you're done talking with me.",
     
     "CHANGE THE SUBJECT": "Ok, here's other stuff you can check out. %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
-    "NAH": "That's ok. I can tell you more about Will. What are you interested in?. %[Career](postback:career) %[Development](postback:development) %[Interests](postback:interests)",
     
-    "CONNECT": "Great! Will loves getting intros from me. You can either tweet him or connect directly to chat. If you've got feedback or an opportunity, don't be shy! %[Tweet Will](http://bit.ly/willbot-tweet) %[Connect on LinkedIn](https://uk.linkedin.com/in/uberfywill)",
+    "CONNECT": "Great! Will loves getting intros from me. You can either tweet him or connect directly to chat.\nIf you've got feedback or an opportunity, don't be shy! %[Tweet Will](http://bit.ly/willbot-tweet) %[Connect on LinkedIn](https://uk.linkedin.com/in/uberfywill) %[Facebook message](https://www.messenger.com/t/uberfywill)",
     
     "BYE": "Thanks for hanging out with me.\nDon't forget to show the love and 'like' my page before you go.\nCome back soon."
     
