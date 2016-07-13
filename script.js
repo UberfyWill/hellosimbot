@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Sorry, I didn't understand that. I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand.\nTry talking to me using basic language like, 'hello'.`).then(() => 'speak');
+                    return bot.say(`Sorry, I didn't understand that. I'm still learning to understand humans every day.\nTry talking to me using basic language like, 'hello'.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
