@@ -1,6 +1,6 @@
 {
     
-    "HELLO": "Hi there! 👋\nI'm Will's personal bot 👾\nWant to learn about Will or are you just here for the bot? %[Learn about Will](postback:learn_about_will) %[Here for the bot](postback:here_for_the_bot)\nIt's also easy to change the subject at any time by saying 'change the subject'.",
+    "HELLO": "Hi there! 👋\nI'm Will's personal bot 👾\nWant to learn about Will or are you just here for the bot? %[Learn about Will](postback:learn_about_will) %[Here for the bot](postback:here_for_the_bot)\nIt's also easy to change the subject at any time by saying 'change the subject'.\n![simbot](https://github.com/UberfyWill/EstherBot/raw/master/img/simbot_pic_me.jpg)\n",
     "LEARN ABOUT WILL": "Ok cool! 😁 I can share ton of stuff about him, where should we start? %[Biography 🙌](postback:biography_🙌) %[Latest articles 📝](postback:latest_articles_📝) %[Side projects 💡](postback:side_projects_💡)\nIt's also easy to 💬 with him directly at any time. %[💬 with Will](postback:💬_with_will)",
     "BIOGRAPHY 🙌": "Great! 😊\nWhat are you interested in? %[Career 💼](postback:career_💼) %[Development 🎓](postback:development_🎓) %[Interests ☕️](postback:interests_☕️)",
     "CAREER 💼": "Known as an in-house expert for anything related to sourcing, tools or technology, he's spent nearly a decade working in the recruitment industry, developing expertise in sourcing, Boolean techniques and headhunting online.\nInteresting huh? %[Yep, Keep going](postback:yep,_keep_going)",
