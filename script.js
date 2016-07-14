@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Sorry, I didn't understand that. I'm still learning to understand humans every day.\nTry talking to me using basic language like, 'hello'.`).then(() => 'speak');
+                    return bot.say(`Sorry, I didn't understand that. I'm still learning to understand humans every day.\nTry talking to me using basic language.\nFor example say 'hello' to start a conversation.\n![whoops](https://github.com/UberfyWill/EstherBot/raw/master/img/simbot_whoops.jpg)\n`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
