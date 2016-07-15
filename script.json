@@ -24,8 +24,9 @@
     
     "HELP ME": "I may be a bot, but I'm still learning to understand humans every day, so for now the best way to chat is for you to use the words I understand.\nTry talking to me using basic language like, 'hello', 'career', 'development' and 'interests'.\nYou can also say 'connect' to talk to Will or say 'bye' when you're done talking with me.",
     
-    "CHANGE THE SUBJECT": "Ok, here's other stuff you can check out 👇 %[Biography](postback:biography) %[Latest articles](postback:articles) %[Side projects](postback:side_projects) %[Connect with Will](postback:connect)",
-    "COOL": "Ok, here's other stuff you can check out 👇 %[Biography](postback:biography) %[Latest articles](postback:articles) %[Side projects](postback:side_projects) %[Connect with Will](postback:connect)",
+    "CHANGE THE SUBJECT": "Ok, here's other stuff you can check out 👇 %[Biography 🙌](postback:biography_🙌) %[Latest articles 📝](postback:latest_articles_📝) %[Side projects 💡](postback:side_projects_💡) %[💬 with Will](postback:💬_with_will)",
+    
+    "COOL": "Ok, here's other stuff you can check out 👇 %[Biography 🙌](postback:biography_🙌) %[Latest articles 📝](postback:latest_articles_📝) %[Side projects 💡](postback:side_projects_💡) %[💬 with Will](postback:💬_with_will)",
     
     "💬 WITH WILL": "Great! Will loves getting intros from me. You can either tweet him or connect directly to 💬\nIf you've got feedback or an opportunity, don't be shy! %[Tweet Will](http://bit.ly/willbot-tweet) %[Connect on LinkedIn](https://uk.linkedin.com/in/uberfywill) %[Facebook message](https://www.messenger.com/t/uberfywill)",
     
