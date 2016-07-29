@@ -1,12 +1,12 @@
-# EstherBot built using the Smooch Bot example
+# SimBot built using the Smooch Bot example
 If you want a slightly more sophisticated setup and are comfortable using the console then go see the original here: https://github.com/smooch/smooch-bot-example 
 
-Or if you want to test out EstherBot live go say hi on your platform of choice:
-http://estherbot.com
+Or if you want to test out SimBot live go say hi on your platform of choice:
+http://m.me/hellosimbot
 
 # Build Your Bot
 
-Creating this version will give you a web based chat app. With a few integrations inside of Smooch (like Twilio) you can have your bot talking on other platforms too including SMS, Facebook, and Telegram.  
+Creating this version will give you a web based chat app. With a few integrations inside of Smooch (like Messenger) you can have your bot talking on other platforms too including SMS, Facebook, and Telegram.  
 
 ![heroku](/img/heroku.gif)
 
@@ -35,7 +35,7 @@ Keywords are not case sensitive for users.
 
 The only two keywords you don't want to change are CONNECT ME and DISCONNECT. CONNECT ME turns the automated chat off, so the bot will stop responding to keywords. DISCONNECT will turn the bot back on. 
 
-Also, the initial script starts with "So you want to learn about Esther? ..." but of course you'll want to change it. You can edit it in the script.js file.
+Also, the initial script starts with "So you want to learn about Will? ..." but of course you'll want to change it. You can edit it in the script.js file.
 
 ##Add line breaks to your messages
 If you want your bot's responses to be broken into different bubbles you'll need to add \n.
@@ -48,36 +48,29 @@ Adding pictures is super easy. Make sure you upload the files to your img folder
 
 Here's an example of the syntax for adding an image: 
 
-    Hi there!\nI'm the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/EstherBot/master/img/esther.jpg)
+    Hi there!\nI'm Will's personal bot.\nWant to learn about Will or are you just here for the bot?\n![esther](https://raw.githubusercontent.com/esthercrawford/EstherBot/master/img/simbot_pic_me.jpg)
 
 ##Add buttons to your messages
 On Facebook Messenger these buttons are called "structured messages". It makes it easier for your user to follow the script. They don't even have to type the keywords - they just have to select a button. That means fewer user errors and less frustration.
 
 In the script.json file you'll notice this: 
 
-    %[Tweet Esther](http://bit.ly/estherbot-tweet)
+    %[Biography 🙌](postback:biography_🙌)
 
 This is a smiple link button. When the user taps it, they will open the link in a new browser window.
 
 If you want to have a button trigger your bot to do something, you can use a postback buttons that looks like this:
 
-    %[Tell her](postback:twitter)
+    %[Tweet Will](http://bit.ly/willbot-tweet)
 
-The syntax is similar to a link button, but note the `postback:` prefix. The "Tell her" piece is what the button says, and the "twitter" part after the `postback:` prefix is an extra note you can include in the notificaiton your bot receieves when the user taps the button.
+The syntax is similar to a link button, but note the `postback:` prefix. The "Tweet Will" piece is what the button says, and the "http://bit.ly/willbot-tweet" part after the `postback:` prefix is an extra note you can include in the notificaiton your bot receieves when the user taps the button.
 
 ⚠️ **Note:** Postback buttons work using Smooch webhooks. This means that your bot needs to be deployed to heroku before the buttons will do anything. If you want to test your bot on your local machine you'll have to use a tunnel service such as [ngrok.io](https://ngrok.io) to make your internet visible, and set your local `SERVICE_URL` environment variable appropraitely. For more information bout postbacks, you can check out the Smooch docs here:
 
 - Postbacks: http://docs.smooch.io/#postbacks
 - Webhooks: http://docs.smooch.io/rest/#webhooks
 
-The good news is Estherbot is clever, and simplifies much of this! Estherbot [will automatically](https://github.com/esthercrawford/EstherBot/blob/master/heroku/index.js#L113) accept postback events and treat them as if they were a keyword sent by the user. For example, when a user taps a postback button such as `%[Tell her](postback:twitter)` Estherbot will react as if they had typed out the message `Tell her`.
-
-##Bring it altogether
-Read the JSON below and you'll see there are line breaks, an image, and 3 buttons in this bot's response.   
-
-    {
-        "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)"
-    }
+The good news is Simbot is clever, and simplifies much of this! SimBot [will automatically](https://github.com/esthercrawford/EstherBot/blob/master/heroku/index.js#L113) accept postback events and treat them as if they were a keyword sent by the user. For example, when a user taps a postback button such as `%[Tweet Will](http://bit.ly/willbot-tweet)` SimBot will react as if they had typed out the message `Tweet Will`.
 
 ⚠️ **Note:** If you're not familiar with the JSON syntax you can always paste your script into http://jsonlint.com/ to make sure your syntax in order.
 
