@@ -39,9 +39,9 @@ Also, the initial script starts with "So you want to learn about Will? ..." but 
 
 ##Add line breaks to your messages
 If you want your bot's responses to be broken into different bubbles you'll need to add \n.
-Here's an example: Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.
+Here's an example: Hi there!\nI’m Will's personal bot.
 
-Now that message will be broken into two bubbles. First, it'll say "Hi there!" then it'll say "I'm the personal bot of Esther, a Product Marketer from San Francisco."
+Now that message will be broken into two bubbles. First, it'll say "Hi there!" then it'll say "I’m Will's personal bot."
 
 ##Add images to your messages
 Adding pictures is super easy. Make sure you upload the files to your img folder. Then click on the image and select Raw to get the link for your image.
